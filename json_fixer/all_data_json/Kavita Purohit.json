@@ -1,0 +1,35 @@
+{
+    "Profile Image URL": null,
+    "Profile Name": "Kavita Purohit",
+    "Job Title": "Software Engineer at MediaNV",
+    "Location": "Ahmedabad, Gujarat, India",
+    "About Text": "I’m an enthusiastic full stack Web Developer with experience building websites and web applications. I am specializing in React, Redux, and NodeJs. I'm also good at JavaScript. I'm looking for a position in a company that will challenge me further while allowing me to contribute to the continued growth and success of the organization.",
+    "Experience Data": [
+      {
+        "company": "MediaNV",
+        "title": "Software Engineer",
+        "duration": "Jul 2023 - Present",
+        "location": "Ahmedabad, Gujarat, India",
+        "description": null
+      },
+      {
+        "company": "Nimblechapps",
+        "title": "Mern Stack Developer",
+        "duration": "May 2022 - Mar 2023",
+        "location": "Ahmedabad, Gujarat, India",
+        "description": "Javascript, JWT token, Cloudinary image upload"
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Gandhinagar Institute of Technology",
+        "degreeField": "Bachelor of Engineering - BE, Computer Programming, Specific Applications",
+        "startYear": "2018",
+        "endYear": "2021"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": "PostgreSQL, RDS, Amazon S3, NestJS, gRPC, Stripe Connect, Notification, Multer, SQL, Git, JavaScript, React.js, Python, Postman API, GitHub, Trello, MongoDB, Redux.js, Node.js, Cloudinary"
+  }
+  

@@ -1,0 +1,63 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEKhY-vs_UnYA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726267132810?e=2147483647&v=beta&t=kPOb07LdgmJzYCfqCSHbjpAtka28j-GBZbrso6MhQ6g",
+  "profileName": "Allen Blue",
+  "jobTitle": "Business Development Manager",
+  "location": "Fayetteville, North Carolina, United States",
+  "aboutText": "Passionate and experienced Business Development Manager with a proven track record in optimizing business performance through strategic initiatives and data-driven approaches. Eager to bring expertise in CRM management, cross-functional team collaboration, and innovative marketing strategies to enhance customer engagement and drive growth. Committed to continuously improving process efficiency and fostering teamwork to achieve outstanding business results. Enthusiastically looking to contribute skills and energy to align with and support company goals.",
+  "experienceData": [
+    {
+      "company": "Cadillac of Fayetteville",
+      "title": "Business Development Manager",
+      "duration": "Jan 2023 - Present 1 year 11 months",
+      "location": "Fayetteville, North Carolina, United States",
+      "description": "Improved customer service response time by {15%} by overseeing BDC internet operations and centralized call center management. Administered CRM, including personnel changes, email templates, permission sets, follow-up programs. Designed and updated auto dealership website social media, including Facebook, Twitter and Google Plus. Training of staff regarding the sales process, product knowledge, computer software, etc. Overseeing all operations of a BDC call center including incoming sales…"
+    },
+    {
+      "company": "Spectrum",
+      "title": "Business Account Manager",
+      "duration": "Jul 2022 - Jan 2023 7 months",
+      "location": "Fayetteville, North Carolina, United States",
+      "description": "Analyzed and interpreted complex data sets to provide meaningful insights for business decisions. Developed and implemented data-driven strategies to optimize business performance. Collaborated with cross-functional teams to gather data requirements and deliver actionable recommendations. Created dashboards and reports to visualize business performance metrics and trends. Utilized statistical analysis tools to identify patterns and trends in data sets."
+    },
+    {
+      "company": "United States Army Reserve",
+      "title": "Military Police Officer",
+      "duration": "Apr 2016 - Apr 2022 6 years 1 month",
+      "location": "Cary, North Carolina, United States",
+      "description": "Developed strategies to address identified risks related to personnel safety and security concerns. Responded quickly to emergency situations involving crimes against persons or property. Assisted in the coordination of special events requiring additional security measures. Participated in joint training exercises with other branches of service designed to enhance interagency cooperation."
+    },
+    {
+      "company": "Metronet",
+      "title": "B2B",
+      "duration": "Jan 2019 - Jan 2022 3 years 1 month",
+      "location": "Fayetteville, North Carolina, United States",
+      "description": "Proven sales track record with quantifiable achievements such as meeting or exceeding sales targets. Experience in long sales cycles and negotiation skills tailored to B2B transactions. Strong understanding of the industry and market dynamics relevant to the products or services being sold. Excellent relationship-building and account management abilities to maintain long-term business partnerships."
+    },
+    {
+      "company": "Vivint",
+      "title": "Customer Sales Specialist",
+      "duration": "Aug 2014 - Aug 2019 5 years 1 month",
+      "location": "Fayetteville, North Carolina Metropolitan Area",
+      "description": "Respond to customer queries in a timely and accurate way, via phone, email or chat. Identify customer needs and help customers use specific features. Analyze and report product malfunctions for example, by testing different scenarios or impersonating users. Update our internal databases with information about technical issues and useful discussions with customers. Monitor customer complaints on social media and reach out to provide assistance."
+    },
+    {
+      "company": "Cellular Plus Verizon Authorized Retailer",
+      "title": "Sales Manager",
+      "duration": "Sep 2016 - Jan 2019 2 years 5 months",
+      "location": "Aberdeen, North Carolina, United States",
+      "description": "Improved report accuracy by {20%} by collaborating with senior sales staff on sales report creation and maintenance. Establish active communication and engage with Sales Representatives to ensure prompt processing of orders. Contribute to overall customer satisfaction by promptly responding to communications. Attend sales training and develop an understanding of the products and services of the company."
+    }
+  ],
+  "educationData": [
+    {
+      "schoolName": "University of Nebraska at Omaha",
+      "degreeField": "Bachelor of Science - BS Computer Science",
+      "startYear": "2016",
+      "endYear": "2020"
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/allenblue",
+  "website": "N/A"
+}

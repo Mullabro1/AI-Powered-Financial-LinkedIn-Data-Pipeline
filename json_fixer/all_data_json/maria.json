@@ -1,0 +1,31 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/D4E03AQHxjVErzV7ovg/profile-displayphoto-shrink_800_800/0/1638974532132?e=1750204800&v=beta&t=jg9Bk07gBpkC6_HshwLnT8fsdA8iPml6Iz-hy_0hscM",
+    "Profile Name": "Maria Gonzalez",
+    "Job Title": "Product Manager",
+    "Location": "Madrid, Spain",
+    "About Text": "Experienced Product Manager with over 6 years of experience in product strategy, development, and lifecycle management in the tech industry. I am passionate about delivering innovative solutions that meet customer needs. Currently working in a cross-functional team to build the next-generation SaaS products. When I’m not managing products, I enjoy painting and volunteering.",
+    "Experience Data": [
+      {
+        "company": "Tech Innovators",
+        "title": "Product Manager",
+        "duration": "Apr 2022 - Present",
+        "location": "Madrid, Spain · Remote",
+        "description": "* Led a team of designers and developers to build a new mobile application used by over 100,000 users.\n* Conducted market research and analyzed customer feedback to drive product improvements."
+      },
+      {
+        "company": "Global Solutions",
+        "title": "Associate Product Manager",
+        "duration": "Jan 2019 - Mar 2022",
+        "location": "Madrid, Spain · On-site",
+        "description": "* Supported senior product managers in defining product roadmaps and managing product releases.\n* Worked closely with marketing and sales teams to ensure successful product launches."
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Universidad Politécnica de Madrid",
+        "degreeField": "Industrial Engineering",
+        "startYear": "2011"
+      }
+    ]
+  }
+  

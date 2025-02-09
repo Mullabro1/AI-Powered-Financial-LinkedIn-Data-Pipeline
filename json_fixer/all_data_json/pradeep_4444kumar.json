@@ -1,0 +1,43 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C5603AQGHvDd7JYntGA/profile-displayphoto-shrink_800_800/0/1596156514849?e=1726099200&v=beta&t=O7Jp-bR_bF8Tb2FXpQsh-sD6GuaFSyBFIEYYJlRcpEc",
+    "Profile Name": "Pradeep Kumar",
+    "Job Title": "Assistant Manager - Finance",
+    "Location": "Kolkata, West Bengal, India",
+    "About Text": "Assistant Manager - Finance, currently handling the entire gamut of financial and project management for IBI Group (an international planning, design, and consulting firm). Over 10 years of experience in Finance, Business Partnering, MIS Reporting, Cost Management, Project Costing, Budgeting, Variance Analysis, and Financial Reporting.\nSpecialties include assisting in process optimization, driving cost efficiencies, developing financial models, and ensuring that all project activities are completed in line with financial targets. Passionate about providing strategic financial support to teams across all business units.",
+    "Experience Data": [
+      {
+        "company": "IBI Group",
+        "title": "Assistant Manager - Finance",
+        "duration": "Jul 2021 - Present",
+        "location": "Kolkata, West Bengal, India",
+        "description": "- End-to-End finance for multiple projects\n- Preparation of financial reports for internal & external stakeholders\n- Project Budgeting and Cost Control\n- Project-specific financial performance tracking"
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Institute of Chartered Financial Analysts of India (ICFAI)",
+        "degreeField": "MBA in Finance",
+        "startYear": "2014",
+        "endYear": "2016"
+      },
+      {
+        "schoolName": "University of Calcutta",
+        "degreeField": "Bachelor's Degree in Commerce (B.Com)",
+        "startYear": "2011",
+        "endYear": "2014"
+      }
+    ],
+    "Certifications Data": [],
+    "Projects": null,
+    "Skills": [
+      "Finance",
+      "Cost Management",
+      "Project Costing",
+      "Budgeting",
+      "MIS Reporting",
+      "Variance Analysis",
+      "Financial Reporting",
+      "Financial Modeling"
+    ]
+  }
+  

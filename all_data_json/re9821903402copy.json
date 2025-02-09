@@ -1,0 +1,51 @@
+{
+    "profileImageUrl": "https://example.com/image.jpg",
+    "profileName": "John Doe",
+    "jobTitle": "Software Engineer",
+    "location": "San Francisco, CA",
+    "aboutText": "Passionate software engineer with experience in web development.",
+    "experienceData": [
+      {
+        "company": "Tech Corp",
+        "title": "Junior Developer",
+        "duration": "2019 - 2021",
+        "location": "Remote",
+        "description": "Worked on various web development projects."
+      }
+    ],
+    "educationData": [
+      {
+        "school": "University of Tech",
+        "degree": "BSc Computer Science",
+        "schoolDescription": "Top-ranked tech university.",
+        "dateRange": "2015 - 2019",
+        "schoolUrl": "https://university.com"
+      }
+    ],
+    "skillsData": [
+      {
+        "skill": "JavaScript",
+        "endorsements": 20
+      }
+    ],
+    "certificationsData": [
+      {
+        "certName": "Certified Developer",
+        "issuer": "Tech Certifying Body",
+        "issueDate": "2020-01-01",
+        "expirationDate": "2023-01-01",
+        "credentialId": "ABC123"
+      }
+    ],
+    "projectsData": [
+      {
+        "projectName": "Web App Development",
+        "projectDescription": "Built a responsive web app using React.",
+        "projectDateRange": "2021",
+        "projectLink": "https://projectlink.com"
+      }
+    ],
+    "linkedInUrl": "https://linkedin.com/in/johndoe",
+    "website": "https://johndoe.com"
+  }
+  

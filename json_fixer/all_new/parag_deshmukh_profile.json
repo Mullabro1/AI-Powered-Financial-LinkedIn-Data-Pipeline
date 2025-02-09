@@ -1,0 +1,50 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/C5603AQHRTsWJV6_2Dw/profile-displayphoto-shrink_800_800/0/1592469070161?e=1726099200&v=beta&t=oE-b6WTmvGvBZaMeSiGoNGytV9I9Cs59Dg3DYFWB8HY",
+  "profileName": "Parag Deshmukh",
+  "jobTitle": "Associate Director (FP&A) - Performance Management",
+  "location": "Mumbai Metropolitan Region",
+  "aboutText": "I did my Master's in Management Studies (M.M.S./M.B.A.) specializing in Finance from Mumbai University in 2013. Post MBA studies, my 10 years of work experience in Financial Planning and Analysis has been across industries primarily into Banking and Financial services, food manufacturing and healthcare. Hands on experienced in financial planning, data visualization and accounting. During 3 year undergraduate studies I did accounting, preparation of final accounts & taxation work at a Chartered Accountancy firm. I enjoy working in a team but also excel at working alone. I enjoy a position where I constantly face new challenges which provide opportunities of new learning experiences and personal growth. Other than work, I practice Taekwondo, swimming and meditation which helps me harmonize physical & mental health as well as feed with me creative ideas and strength to overcome challenges being faced.",
+  "experienceData": [
+    {
+      "company": "Standard Chartered Bank",
+      "title": "Associate Director (FP&A) - Performance Management",
+      "duration": "Jan 2023 - Present",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "Country financial consolidation & management team review, Budgeting & forecasting, Finance support for bank's Priority Sector Lending team, Review & controlling India Property finance"
+    },
+    {
+      "company": "Standard Chartered Bank",
+      "title": "Business Finance Manager (FP&A) - Consumer Banking",
+      "duration": "May 2021 - Dec 2022",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "Business finance partnering, Cost optimization, Financial performance analysis for consumer banking products."
+    }
+  ],
+  "educationData": [
+    {
+      "school": "Mumbai University",
+      "degree": "Master's in Management Studies (M.M.S./M.B.A.) Finance",
+      "schoolDescription": "N/A",
+      "dateRange": "2011 - 2013",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [
+    {
+      "certName": "Chartered Financial Analyst",
+      "issuer": "CFA Institute",
+      "issueDate": "Jul 2015",
+      "expirationDate": "Jul 2025",
+      "credentialId": "CFA-2015-003"
+    }
+  ],
+  "projectsData": [],
+  "linkedInUrl": "N/A",
+  "website": "N/A"
+}

@@ -1,0 +1,8 @@
+take path of csv file copy and paste in csv to json 
+
+
+extractlinks.js file for links add links into mainjs
+
+node mainjs
+
+enjoy scraped data 

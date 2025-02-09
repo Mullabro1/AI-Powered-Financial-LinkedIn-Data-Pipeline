@@ -1,0 +1,39 @@
+{
+    "Profile Image URL": null,
+    "Profile Name": "PREMKUMAR NARAYANAN NAIR",
+    "Job Title": "Sr. Manager (Materials)",
+    "Location": "Kochi, Kerala, India",
+    "About Text": null,
+    "Experience Data": [
+      {
+        "company": "BINANI ZINC LIMITED",
+        "title": "Sr. Manager (Materials)",
+        "duration": "1988 - Present",
+        "location": "Kochi, India",
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Mar Athnasius College of Engineering, Kothamangalam, Kerala",
+        "degreeField": "Bachelor of Technology (BTech), Mechanical Engineering",
+        "startYear": "1980",
+        "endYear": "1985"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": [
+      "Engineering",
+      "Process Engineering",
+      "Manufacturing",
+      "Continuous Improvement",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Supply Chain Management",
+      "ISO",
+      "Supply Chain",
+      "Procurement"
+    ]
+  }
+  

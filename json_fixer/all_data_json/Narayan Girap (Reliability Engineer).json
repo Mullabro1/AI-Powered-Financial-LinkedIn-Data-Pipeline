@@ -1,0 +1,35 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C5103AQEyd5L9EgZJbg/profile-displayphoto-shrink_800_800/0/1558765639351?e=1726099200&v=beta&t=rpJ6deuU_Lj0CKideffzET7KTacKhzk1MxCCbvR8wVc",
+    "Profile Name": "Narayan Girap",
+    "Job Title": "Rotary Reliability Deputy Manager at HPCL-Mittal Energy Limited",
+    "Location": "Bhatinda, Punjab, India",
+    "About Text": "I worked as a Machine Diagnostic Engineer in GE Oil & Gas India Pvt. Ltd. for 6 years.",
+    "Experience Data": [
+      {
+        "company": "HPCL-Mittal Energy Limited",
+        "title": "Rotary Reliability Deputy Manager",
+        "duration": "Oct 2022 - Present",
+        "location": "Bhatinda, Punjab, India",
+        "description": null
+      },
+      {
+        "company": "Baker Hughes",
+        "title": "Lead Machine Diagnostic Engineer",
+        "duration": "Jul 2015 - Sep 2023",
+        "location": "Mumbai",
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Mumbai University",
+        "degreeField": "Bachelor of Engineering - BE, Mechanical Engineering",
+        "startYear": "2004",
+        "endYear": "2008"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": "Reliability, Vibration Analysis, Condition Monitoring, Condition Based Maintenance, Predictive Maintenance, Insitu Balancing"
+  }
+  

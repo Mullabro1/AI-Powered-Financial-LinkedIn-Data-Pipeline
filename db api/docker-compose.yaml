@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mydatabase
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Correct volume reference
+    networks:
+      - app_network
+    restart: unless-stopped
+
+volumes:
+  postgres_data: {}  # This defines the named volume, the '{}' ensures it is correctly referenced
+
+networks:
+  app_network:
+    driver: bridge

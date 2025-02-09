@@ -1,0 +1,67 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C5603AQG2yonj6qCvEA/profile-displayphoto-shrink_800_800/0/1571076537058?e=1726099200&v=beta&t=ftRqeuagkC7Q0PZCfobBay4OV-Lzz8pN0zzpqK0Jov4",
+    "Profile Name": "Dinesh Kotadiya",
+    "Job Title": "Manager",
+    "Location": "Vadodara, Gujarat, India",
+    "About Text": "Self-Employed | Financial Advisor | Blogger. | Free Educator. We are Provider Services of Loan, Credit Card, Investment, and Insurance. No Any Charges before any Loan. We Focus Direct Apply Self online from your Mobile.",
+    "Experience Data": [
+      {
+        "company": "MD Financial Service",
+        "title": "Manager",
+        "duration": "5 yrs 5 mos",
+        "location": "Ahmedabad, Gujarat, India · Remote",
+        "description": "We are Provider a Financial all Solution Like Insurance, Investment and Loans. WhatsApp Message on 'Hi' on 7383526761"
+      },
+      {
+        "company": "D R Ribadiya",
+        "title": "Independent Business Owner",
+        "duration": "2 yrs",
+        "location": "Surat Area, India",
+        "description": "Recommended loan approvals and denials based on customer loan application reviews. Built positive relationships with customers by offering best financing and product options for Secured and Unsecured loans."
+      }
+    ],
+    "Education Data": [
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Master's degree, Finance, General",
+        "schoolDescription": "Srimad Rajchandra Institute of Management and Computer Application. Graduated with 6.47 GPA",
+        "dateRange": "2010 - 2012"
+      },
+      {
+        "school": "Veer Narmad South Gujarat University, Surat",
+        "degree": "Bachelor of Science (B.Sc.), Chemistry",
+        "schoolDescription": "The Patidar Gin Science College Bardoli. Graduated with 58.4 %",
+        "dateRange": "2008 - 2010",
+        "schoolUrl": "https://www.linkedin.com/company/781160/"
+      }
+    ],
+    "Skills Data": [
+      {
+        "skill": "Credit loan",
+        "endorsements": null
+      },
+      {
+        "skill": "Direct Sales",
+        "endorsements": null
+      },
+      {
+        "skill": "Business Loan",
+        "endorsements": 1
+      },
+      {
+        "skill": "Personal Loans",
+        "endorsements": 1
+      },
+      {
+        "skill": "Loans",
+        "endorsements": 14
+      },
+      {
+        "skill": "Core Banking",
+        "endorsements": 13
+      }
+    ],
+    "LinkedIn URL": "https://www.linkedin.com/in/dineshkotadiya/",
+    "Website": "finaxyworld.com"
+  }
+  

@@ -1,0 +1,42 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/D4D03AQGBR_CdPKKQFw/profile-displayphoto-shrink_800_800/0/1686667019200?e=1726099200&v=beta&t=UO1wk-CxMCevmW91zPPxNpfRTaOlUtddZAYAWI2Bp_4",
+  "profileName": "CA Abhishek Desai",
+  "jobTitle": "Associate",
+  "location": "Pune, Maharashtra, India",
+  "aboutText": "Chartered Accountant with experience in Transfer Pricing and financial advisory. Currently working with PwC India. Previous experience includes completing articleship at Nexdigm (SKP). Passionate about problem solving and finance.",
+  "experienceData": [
+    {
+      "company": "PwC India",
+      "title": "Associate",
+      "duration": "1 yr 5 mos",
+      "location": "Pune, Maharashtra, India · On-site",
+      "description": "N/A"
+    },
+    {
+      "company": "Nexdigm (SKP)",
+      "title": "Article Trainee",
+      "duration": "3 yrs",
+      "location": "Pune, Maharashtra, India",
+      "description": "Completed Articleship"
+    }
+  ],
+  "educationData": [
+    {
+      "school": "N/A",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/-abhishekdesai/",
+  "website": "N/A"
+}

@@ -1,0 +1,53 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C4D03AQHgp8G7MWWAnA/profile-displayphoto-shrink_800_800/0/1656471933824?e=1726099200&v=beta&t=E9b3Cpma2DfOg7TuS3sEEcVId1wjAfK9UmCfOlFCBDQ",
+    "Profile Name": "Bhavy Sanghavi",
+    "Job Title": "Article Assistant",
+    "Location": "Mumbai, Maharashtra, India",
+    "About Text": "--CA Finalist // CFA LEVEL II Cleared // Article Assitant at NDAA & Associates LLP",
+    "Experience Data": [
+      {
+        "company": "NDAA AND ASSOCIATES LLP",
+        "title": "Article Assistant",
+        "duration": "3 yrs 1 mo",
+        "location": "Mumbai, Maharashtra, India",
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "school": "CFA Institute",
+        "degree": "CFA level 2, Finance",
+        "schoolDescription": null,
+        "dateRange": "Nov 2023",
+        "schoolUrl": null
+      },
+      {
+        "school": "CFA Institute",
+        "degree": "CFA level 1, Finance",
+        "schoolDescription": null,
+        "dateRange": "Nov 2022",
+        "schoolUrl": null
+      }
+    ],
+    "Skills Data": [
+      {
+        "skill": "Problem Solving",
+        "endorsements": 1
+      },
+      {
+        "skill": "Analytical Skills",
+        "endorsements": 1
+      },
+      {
+        "skill": "Finance",
+        "endorsements": 1
+      },
+      {
+        "skill": "Microsoft Excel",
+        "endorsements": 1
+      }
+    ],
+    "LinkedIn URL": "https://www.linkedin.com/in/bhavy-sanghavi-b40137204/",
+    "Website": null
+  }
+  

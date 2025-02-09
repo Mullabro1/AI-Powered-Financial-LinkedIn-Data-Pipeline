@@ -1,0 +1,49 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/D4D03AQF_2xyGx9pv_A/profile-displayphoto-shrink_800_800/0/1671105709202?e=1726099200&v=beta&t=7bv0_Wxsif3sPWPeVtQpX0FeauDzp2mz2lnQ-ED2RR8",
+  "profileName": "Harshal Udani",
+  "jobTitle": "Manager",
+  "location": "Dubai, United Arab Emirates",
+  "aboutText": "Tax Specialist with over 9 years of experience in taxation, corporate tax, and VAT. Skilled in tax advisory, audit, and international taxation.",
+  "experienceData": [
+    {
+      "company": "Sobha Realty",
+      "title": "Manager",
+      "duration": "10 mos",
+      "location": "Dubai, United Arab Emirates · On-site",
+      "description": "Corporate Tax and VAT"
+    },
+    {
+      "company": "DHC | Desai Haribhakti",
+      "title": "Senior Manager - International Tax and Transfer Pricing",
+      "duration": "1 yr 2 mos",
+      "location": "Mumbai, Maharashtra, India · On-site",
+      "description": "Supporting tax implications of foreign remittances, managing direct taxation functions including filing returns, assessments, appeals, and transfer pricing."
+    }
+  ],
+  "educationData": [
+    {
+      "school": "N/A",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    },
+    {
+      "school": "N/A",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/harshal-udani-17b27471/",
+  "website": "N/A"
+}

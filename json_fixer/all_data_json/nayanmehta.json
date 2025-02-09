@@ -1,0 +1,54 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C4D03AQHM5OXn6juB4A/profile-displayphoto-shrink_800_800/0/1516526421362?e=1726099200&v=beta&t=7dAOoP7NE9GyWB12f1nEVNFXYwSljAXtuqQyOQL0oIk",
+    "Profile Name": "Nayan Mehta",
+    "Job Title": "CFO",
+    "Location": "Mumbai, Maharashtra, India",
+    "About Text": null,
+    "Experience Data": [
+      {
+        "company": "BSE Limited",
+        "title": "CFO",
+        "duration": "Jan 2012 - Oct 2023",
+        "location": "Mumbai",
+        "description": null
+      },
+      {
+        "company": "Credit Analysis & Research Ltd. (CARE Ratings)",
+        "title": "Joint General Manager (Accounts)",
+        "duration": "Feb 2011 - Jan 2012",
+        "location": null,
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Institute of Chartered Accountants of India",
+        "degreeField": "F.C.A., Finance & Accounting",
+        "startYear": "1988",
+        "endYear": "1991"
+      },
+      {
+        "schoolName": "Institute of Cost Accountants of India",
+        "degreeField": "AICWA, Cost & Management Accounting",
+        "startYear": "1985",
+        "endYear": "1988"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": [
+      "Capital Markets",
+      "Equities",
+      "Derivatives",
+      "Corporate Finance",
+      "Risk Management",
+      "Financial Modeling",
+      "Banking",
+      "MIS",
+      "Financial Analysis",
+      "Commodity",
+      "Valuation",
+      "Finance"
+    ]
+  }
+  

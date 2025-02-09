@@ -1,0 +1,27 @@
+{
+  "profileImageUrl": "N/A",
+  "profileName": "Sanjay S",
+  "jobTitle": "Chartered Accountant",
+  "location": "Chennai, Tamil Nadu, India",
+  "aboutText": "N/A",
+  "experienceData": [
+    {
+      "company": "KPMG India",
+      "title": "Chartered Accountant",
+      "duration": "N/A",
+      "location": "N/A",
+      "description": "N/A"
+    }
+  ],
+  "educationData": [],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/sanjay-s-331457214/",
+  "website": "N/A"
+}

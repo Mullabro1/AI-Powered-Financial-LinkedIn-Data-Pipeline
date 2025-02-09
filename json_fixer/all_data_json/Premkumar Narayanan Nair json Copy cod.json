@@ -1,0 +1,43 @@
+{
+    "Profile Image URL": null,
+    "Profile Name": "Premkumar Narayanan Nair",
+    "Job Title": "Sr. Manager (Materials)",
+    "Location": "Kochi, Kerala, India",
+    "About Text": "Experienced Senior Manager in Materials with expertise in Engineering, Process Engineering, Manufacturing, Continuous Improvement, Six Sigma, Lean Manufacturing, and Supply Chain Management.",
+    "Experience Data": [
+      {
+        "company": "BINANI ZINC LIMITED",
+        "title": "Sr. Manager (Materials)",
+        "duration": "1988 - Present",
+        "location": "Kochi, Kerala, India",
+        "description": "Managing materials operations and overseeing process engineering."
+      },
+      {
+        "company": "Mar Athnasius College of Engineering",
+        "title": "Bachelor of Technology (BTech), Mechanical Engineering",
+        "duration": "1980 - 1985",
+        "location": "Kothamangalam, Kerala",
+        "description": "Completed Bachelor's degree in Mechanical Engineering."
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Mar Athnasius College of Engineering",
+        "degreeField": "Bachelor of Technology (BTech), Mechanical Engineering",
+        "startYear": "1980",
+        "endYear": "1985"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": [
+      "Engineering",
+      "Process Engineering",
+      "Manufacturing",
+      "Continuous Improvement",
+      "Six Sigma",
+      "Lean Manufacturing",
+      "Supply Chain Management"
+    ]
+  }
+  

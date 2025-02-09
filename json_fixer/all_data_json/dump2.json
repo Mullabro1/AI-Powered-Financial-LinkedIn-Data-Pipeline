@@ -1,0 +1,92 @@
+[
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Navneet Bhartiya",
+      "Job Title": "Proprietor",
+      "Location": "Chhatrapati Sambhajinagar, Maharashtra, India",
+      "About Text": "Chartered Accountant with over 22 years of experience.",
+      "Experience Data": [
+        {
+          "company": "N.M.Bhartiya & Associates",
+          "title": "Proprietor",
+          "duration": "May 2002 - Present",
+          "location": "Chhatrapati Sambhajinagar, Maharashtra, India",
+          "description": "Providing expert consultancy services in financial planning and tax consulting."
+        }
+      ],
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": "https://media.licdn.com/dms/image/C5603AQEDYj6yL5fmPA/profile-displayphoto-shrink_800_800/0/1592622866988?e=1726099200&v=beta&t=qTnopC5Yo65PNYvwBSHgsUhZM2aFx9W8ySZz8M0Bkr4",
+      "Profile Name": "Shubhashri Daptari",
+      "Job Title": "Operations Manager",
+      "Location": "Jalgaon, Maharashtra, India",
+      "About Text": "Operations Manager in the banking industry with a focus on business processes and operations administration.",
+      "Experience Data": [
+        {
+          "company": "The Jalgaon People Bank",
+          "title": "Operations Manager",
+          "duration": "Dec 2011 - Present",
+          "location": "Jalgaon, Maharashtra, India",
+          "description": "Responsible for managing operations, business processes, and event management. Head of Self-Help Group (SHG) department."
+        }
+      ],
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": [
+        "Business Process",
+        "Operations Administration",
+        "Operations Management",
+        "Banking"
+      ]
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Anjani kumar Chirania",
+      "Job Title": "Executive",
+      "Location": "Mumbai, Maharashtra, India",
+      "About Text": "Executive at Satya Securities.",
+      "Experience Data": [
+        {
+          "company": "Satya Securities",
+          "title": "Executive",
+          "duration": null,
+          "location": null,
+          "description": null
+        }
+      ],
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": null,
+      "Job Title": null,
+      "Location": null,
+      "About Text": null,
+      "Experience Data": null,
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": null,
+      "Job Title": null,
+      "Location": null,
+      "About Text": null,
+      "Experience Data": null,
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": null
+    }
+  ]
+  

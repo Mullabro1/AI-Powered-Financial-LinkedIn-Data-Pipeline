@@ -1,0 +1,35 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/D4D03AQHMUUgWTzJx_g/profile-displayphoto-shrink_800_800/0/1691751006228?e=1726099200&v=beta&t=KMuliN6WKPFUbzcIWducrH-DLyDyfySZKeP_WW0pjto",
+    "Profile Name": "Chandan Kumar",
+    "Job Title": "Branch operation and service manager",
+    "Location": "Mumbai, Maharashtra, India",
+    "About Text": "Experienced Manager with a demonstrated history of working in the banking industry. Skilled in Credit Risk, Banking, Branch Banking, Credit, and Retail Banking. Strong professional with a Bachelor of Arts - BA focused in Geography from Vinoba Bhave University.",
+    "Experience Data": [
+      {
+        "company": "AU SMALL FINANCE BANK",
+        "title": "Branch operation and service manager",
+        "duration": "May 2022 - Present",
+        "location": "Mumbai",
+        "description": null
+      },
+      {
+        "company": "RBL Bank",
+        "title": "Service Delivery Manager",
+        "duration": "Mar 2021 - Apr 2022",
+        "location": "Mumbai, Maharashtra, India",
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Vinoba Bhave University",
+        "degreeField": "Bachelor of Arts - BA, Geography",
+        "startYear": null,
+        "endYear": null
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": "Credit, Retail Banking, Credit Risk, Banking, Branch Banking, Finance"
+  }
+  

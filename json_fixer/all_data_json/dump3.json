@@ -1,0 +1,141 @@
+[
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Chandrakant Sanghvi",
+      "Job Title": "Owner",
+      "Location": "Mumbai, Maharashtra, India",
+      "About Text": "Owner, Hetal Corporation.",
+      "Experience Data": [
+        {
+          "company": "Hetal Corporation",
+          "title": "Owner",
+          "duration": null,
+          "location": null,
+          "description": null
+        }
+      ],
+      "Education Data": null,
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": "https://media.licdn.com/dms/image/D5603AQFFt-lDh85hVg/profile-displayphoto-shrink_800_800/0/1691410079587?e=1726099200&v=beta&t=_gZQ00cD4ae7wQJRxotMh_zzAO3GG41_TI7FVYHmXFc",
+      "Profile Name": "Dr. Avinash Poddar, Advocate",
+      "Job Title": "Founder Partner, M/s ASHVA Legal Advisors LLP",
+      "Location": "Surat, Gujarat, India",
+      "About Text": "Dr. Avinash Poddar is CA turned Advocate & AUTHOR. Practicing in Supreme Court, High Courts, and Tribunals. Founder Partner of ASHVA Legal Advisors LLP.",
+      "Experience Data": [
+        {
+          "company": "ASHVA Legal Advisors LLP",
+          "title": "Founder Partner",
+          "duration": "Mar 2017 - Present",
+          "location": "Surat, Gujarat, India",
+          "description": "Currently practicing as an Advocate in Indirect Taxes, Commercial Laws, and Cyber Crime. Author of books on Indirect Taxes. Promoter of TARUN Group."
+        },
+        {
+          "company": "AAP & Co. Chartered Accountants",
+          "title": "Managing Partner",
+          "duration": "Sep 2000 - Feb 2017",
+          "location": null,
+          "description": "Founded AAP & Co. Chartered Accountants. Retired in 2017 to pursue Law."
+        }
+      ],
+      "Education Data": [
+        {
+          "schoolName": "Jindal Global Law School (JGLS)",
+          "degreeField": "Master of Laws - LLM, Corporate and Financial Laws",
+          "startYear": "2021",
+          "endYear": "2022"
+        },
+        {
+          "schoolName": "IBBI - Insolvency and Bankruptcy Board of India",
+          "degreeField": "Insolvency Professional",
+          "startYear": "2020",
+          "endYear": "2020"
+        }
+      ],
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": [
+        "PMLA",
+        "Benami Transactions",
+        "Tax and Commercial Law Advisory",
+        "Litigation",
+        "Bankruptcy Law",
+        "Tax Litigation"
+      ]
+    },
+    {
+      "Profile Image URL": "https://media.licdn.com/dms/image/C5103AQH8dAZzaUVcZA/profile-displayphoto-shrink_800_800/0/1531932241249?e=1726099200&v=beta&t=wv8JrORsa0Y79sl8M-HOtO_qvK04sHwiSYlTK9-y_Tc",
+      "Profile Name": "Hemant Singhvi",
+      "Job Title": "Chief Operating Officer",
+      "Location": "Mumbai, Maharashtra, India",
+      "About Text": "Chief Operating Officer at National Commodity Clearing Limited (NCCL), NCDEX Group Company. Over two decades of experience in Commodity and Capital Markets Operations.",
+      "Experience Data": [
+        {
+          "company": "National Commodity Clearing Limited (NCCL), NCDEX Group Company",
+          "title": "Chief Operating Officer",
+          "duration": "Jun 2018 - Present",
+          "location": "Mumbai Area, India",
+          "description": "Leading departments like Clearing & Settlement, Collateral Management, Logistics, Customer Service, and Technology."
+        },
+        {
+          "company": "NCDEX",
+          "title": "Executive Vice President - Exchange Operations and Head - Clearing & Settlement",
+          "duration": "Apr 2014 - Jun 2018",
+          "location": null,
+          "description": "Handled successful migration and implementation of NextGen Trading System. Led the launch of Options product and set up NCCL."
+        }
+      ],
+      "Education Data": [
+        {
+          "schoolName": "The Institute of Chartered Accountants of India",
+          "degreeField": "CA",
+          "startYear": "1997",
+          "endYear": "2000"
+        },
+        {
+          "schoolName": "Jai Narain Vyas University",
+          "degreeField": "B.Com (Hons), Commerce",
+          "startYear": "1997",
+          "endYear": "1999"
+        }
+      ],
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": [
+        "Commodity",
+        "Trading",
+        "Derivatives",
+        "Equities",
+        "Financial Markets",
+        "Capital Markets",
+        "Risk Management"
+      ]
+    },
+    {
+      "Profile Image URL": "https://media.licdn.com/dms/image/C5603AQEZ9Ygqgn_aqA/profile-displayphoto-shrink_800_800/0/1659535174980?e=1726099200&v=beta&t=KPFccrWO6AbRIrTfx43h83VQRltZJxkJ8hoggoY5K5E",
+      "Profile Name": "Utsav Jodhani",
+      "Job Title": "Student",
+      "Location": "Anekal, Karnataka, India",
+      "About Text": "Currently studying at Alliance University, pursuing a Bachelor's in Business Administration.",
+      "Experience Data": null,
+      "Education Data": [
+        {
+          "schoolName": "Alliance University",
+          "degreeField": "Bachelor of Business Administration - BBA, International Business",
+          "startYear": "2022",
+          "endYear": "2025"
+        }
+      ],
+      "Certifications Data": null,
+      "Projects": null,
+      "Skills": [
+        "internship",
+        "Microsoft PowerPoint",
+        "data entry"
+      ]
+    }
+  ]
+  

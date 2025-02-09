@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LinkedIn Scraper</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    button { padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: brown; }
+    #status { margin-top: 20px; font-weight: bold; }
+    img{
+            height: 50px;
+            width: 100px;
+            float: right;
+           
+        }
+        div{
+            padding-bottom:50px ;
+        }
+  </style>
+</head>
+<body>
+ <div>
+    <h1>LinkedIn Scraping Tool
+       <img src="/eco.png" alt="Eco Image">
+    </h1>
+   
+</div>
+  <p>This tool will scrape LinkedIn profiles when the button below is clicked.</p>
+  <button id="scrapeButton">Start Scraping</button>
+  <p id="status"></p>
+
+  <script>
+    document.getElementById('scrapeButton').addEventListener('click', async () => {
+      const statusElem = document.getElementById('status');
+      statusElem.textContent = 'Scraping in progress...';
+
+      try {
+        const response = await fetch('/scrape', { method: 'POST' });
+        const data = await response.json();
+
+        if (response.ok) {
+          statusElem.textContent = 'Scraping completed successfully.';
+        } else {
+          statusElem.textContent = 'Error: ' + data.error;
+        }
+      } catch (error) {
+        statusElem.textContent = 'Failed to trigger scraping: ' + error.message;
+      }
+    });
+  </script>
+</body>
+</html>

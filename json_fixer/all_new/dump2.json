@@ -1,0 +1,133 @@
+[
+  {
+    "profileImageUrl": "N/A",
+    "profileName": "Navneet Bhartiya",
+    "jobTitle": "Proprietor",
+    "location": "Chhatrapati Sambhajinagar, Maharashtra, India",
+    "aboutText": "Chartered Accountant with over 22 years of experience.",
+    "experienceData": [
+      {
+        "company": "N.M.Bhartiya & Associates",
+        "title": "Proprietor",
+        "duration": "May 2002 - Present",
+        "location": "Chhatrapati Sambhajinagar, Maharashtra, India",
+        "description": "Providing expert consultancy services in financial planning and tax consulting."
+      }
+    ],
+    "educationData": [],
+    "skillsData": [
+      {
+        "skill": "N/A",
+        "endorsements": 0
+      }
+    ],
+    "certificationsData": [],
+    "projectsData": [],
+    "linkedInUrl": "N/A",
+    "website": "N/A"
+  },
+  {
+    "profileImageUrl": "https://media.licdn.com/dms/image/C5603AQEDYj6yL5fmPA/profile-displayphoto-shrink_800_800/0/1592622866988?e=1726099200&v=beta&t=qTnopC5Yo65PNYvwBSHgsUhZM2aFx9W8ySZz8M0Bkr4",
+    "profileName": "Shubhashri Daptari",
+    "jobTitle": "Operations Manager",
+    "location": "Jalgaon, Maharashtra, India",
+    "aboutText": "Operations Manager in the banking industry with a focus on business processes and operations administration.",
+    "experienceData": [
+      {
+        "company": "The Jalgaon People Bank",
+        "title": "Operations Manager",
+        "duration": "Dec 2011 - Present",
+        "location": "Jalgaon, Maharashtra, India",
+        "description": "Responsible for managing operations, business processes, and event management. Head of Self-Help Group (SHG) department."
+      }
+    ],
+    "educationData": [],
+    "skillsData": [
+      {
+        "skill": "Business Process",
+        "endorsements": 0
+      },
+      {
+        "skill": "Operations Administration",
+        "endorsements": 0
+      },
+      {
+        "skill": "Operations Management",
+        "endorsements": 0
+      },
+      {
+        "skill": "Banking",
+        "endorsements": 0
+      }
+    ],
+    "certificationsData": [],
+    "projectsData": [],
+    "linkedInUrl": "N/A",
+    "website": "N/A"
+  },
+  {
+    "profileImageUrl": "N/A",
+    "profileName": "Anjani kumar Chirania",
+    "jobTitle": "Executive",
+    "location": "Mumbai, Maharashtra, India",
+    "aboutText": "Executive at Satya Securities.",
+    "experienceData": [
+      {
+        "company": "Satya Securities",
+        "title": "Executive",
+        "duration": "N/A",
+        "location": "N/A",
+        "description": "N/A"
+      }
+    ],
+    "educationData": [],
+    "skillsData": [
+      {
+        "skill": "N/A",
+        "endorsements": 0
+      }
+    ],
+    "certificationsData": [],
+    "projectsData": [],
+    "linkedInUrl": "N/A",
+    "website": "N/A"
+  },
+  {
+    "profileImageUrl": "N/A",
+    "profileName": "N/A",
+    "jobTitle": "N/A",
+    "location": "N/A",
+    "aboutText": "N/A",
+    "experienceData": [],
+    "educationData": [],
+    "skillsData": [
+      {
+        "skill": "N/A",
+        "endorsements": 0
+      }
+    ],
+    "certificationsData": [],
+    "projectsData": [],
+    "linkedInUrl": "N/A",
+    "website": "N/A"
+  },
+  {
+    "profileImageUrl": "N/A",
+    "profileName": "N/A",
+    "jobTitle": "N/A",
+    "location": "N/A",
+    "aboutText": "N/A",
+    "experienceData": [],
+    "educationData": [],
+    "skillsData": [
+      {
+        "skill": "N/A",
+        "endorsements": 0
+      }
+    ],
+    "certificationsData": [],
+    "projectsData": [],
+    "linkedInUrl": "N/A",
+    "website": "N/A"
+  }
+]

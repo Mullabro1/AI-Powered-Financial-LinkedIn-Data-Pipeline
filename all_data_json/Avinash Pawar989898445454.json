@@ -1,0 +1,42 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/C4E03AQGViKmW4zSpaA/profile-displayphoto-shrink_800_800/0/1630609730224?e=1726099200&v=beta&t=hqKqjnVxFusTw-KflmAGcJKH9dGw8vSfdh-OPLMNduY",
+  "profileName": "Avinash Pawar",
+  "jobTitle": "Import Manager",
+  "location": "Mumbai, Maharashtra, India",
+  "aboutText": "N/A",
+  "experienceData": [
+    {
+      "company": "Helios Infra Ventures PVT LTD",
+      "title": "Import Manager",
+      "duration": "May 2021 - Present",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "Import Manager"
+    },
+    {
+      "company": "Cargo Inspectors & Superintendence Co. Pvt. Ltd.",
+      "title": "Executive (Operation & Marketing)",
+      "duration": "Jun 2020 - Nov 2020",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "N/A"
+    }
+  ],
+  "educationData": [
+    {
+      "school": "Mumbai University Mumbai",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "1998 - 2004",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "N/A",
+  "website": "N/A"
+}

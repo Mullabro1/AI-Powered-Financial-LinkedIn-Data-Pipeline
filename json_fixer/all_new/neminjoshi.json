@@ -1,0 +1,42 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/D4D03AQGlHrV_clv8LA/profile-displayphoto-shrink_800_800/0/1690168961428?e=1726099200&v=beta&t=yMOUjOm4ye_KwtU9Dqoc56B9SI7eO0bpQsSHyLfCDD0",
+  "profileName": "Nemin Doshi",
+  "jobTitle": "Associate",
+  "location": "Mumbai, Maharashtra, India",
+  "aboutText": "N/A",
+  "experienceData": [
+    {
+      "company": "Deloitte",
+      "title": "Associate",
+      "duration": "Mar 2022 - Present 2 yrs 5 mos",
+      "location": "Mumbai, Maharashtra, India",
+      "description": "N/A"
+    }
+  ],
+  "educationData": [
+    {
+      "school": "The Institute of Chartered Accountants of India",
+      "degree": "Intermediate",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    },
+    {
+      "school": "H.R. College of Commerce and Economics",
+      "degree": "Bachelor of Commerce - BCom, Business/Commerce, General",
+      "schoolDescription": "N/A",
+      "dateRange": "2020 - 2023",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/nemin-doshi-56b5491b9/",
+  "website": "N/A"
+}

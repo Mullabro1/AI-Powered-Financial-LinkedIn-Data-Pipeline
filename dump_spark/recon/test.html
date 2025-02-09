@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Table Layout Using x, y, w, h</title>
+  <style>
+    /* Container for the table */
+    .table-container {
+      position: relative;
+      width: 100%;
+      height: 1000px; /* Adjust this as needed */
+      border: 1px solid #000;
+    }
+
+    /* Style for each "cell" based on x, y, w, h */
+    .table-cell {
+      position: absolute;
+      height: 50px; /* Constant height */
+      padding: 5px;
+      border: 1px solid #ccc;
+      background-color: lightgray;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="table-container" id="tableContainer"></div>
+
+  <script>
+    const jsonData = [
+      {
+        "x": 1,
+        "y": 1.8679999999999999,
+        "w": 130.55,
+        "clr": 0,
+        "sw": 0.36196875,
+        "A": "left",
+        "R": [
+          {
+            "T": "STATEMENT OF ACCOUNT",
+            "S": 10,
+            "TS": [0, 14, 1, 0]
+          }
+        ]
+      },
+      {
+        "x": 1,
+        "y": 3.118,
+        "w": 70,
+        "clr": 0,
+        "sw": 0.36196875,
+        "A": "left",
+        "R": [
+          {
+            "T": "CUSTOMER ID",
+            "S": -1,
+            "TS": [0, 13, 0, 0]
+          }
+        ]
+      },
+      // Add more data here...
+    ];
+
+    // Function to create "cells" and position them on the container
+    function createTable(jsonData) {
+      const tableContainer = document.getElementById('tableContainer');
+      
+      jsonData.forEach(item => {
+        const cell = document.createElement('div');
+        cell.classList.add('table-cell');
+        
+        // Set the position, width, and height based on x, y, w, and h
+        cell.style.left = `${item.x}px`;  // x-coordinate for horizontal positioning
+        cell.style.top = `${item.y}px`;   // y-coordinate for vertical positioning
+        cell.style.width = `${item.w}px`; // width of the text element
+        cell.innerText = item.R[0].T;     // Text content from R array
+
+        // Append the cell to the container
+        tableContainer.appendChild(cell);
+      });
+    }
+
+    // Generate the table from the JSON data
+    createTable(jsonData);
+  </script>
+
+</body>
+</html>

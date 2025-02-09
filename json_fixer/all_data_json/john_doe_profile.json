@@ -1,0 +1,43 @@
+{
+    "Profile Image URL": "https://path/to/image.jpg",
+    "Profile Name": "John Doe",
+    "Job Title": "Software Developer",
+    "Location": "San Francisco, CA",
+    "About Text": "Experienced developer with a passion for coding.",
+    "Experience Data": [
+      {
+        "company": "TechCorp",
+        "title": "Junior Developer",
+        "duration": "Jan 2020 - Present",
+        "location": "San Francisco, CA",
+        "description": "Worked on web applications using React."
+      },
+      {
+        "company": "DevWorks",
+        "title": "Intern",
+        "duration": "Jun 2019 - Dec 2019",
+        "location": "San Francisco, CA",
+        "description": "Assisted in development of mobile apps."
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "University of California",
+        "degreeField": "B.S. in Computer Science",
+        "startYear": "2016",
+        "endYear": "2020"
+      }
+    ],
+    "Certifications Data": [
+      {
+        "certName": "AWS Certified Developer",
+        "issuer": "Amazon",
+        "issueDate": "Feb 2021",
+        "expirationDate": "Feb 2024",
+        "credentialId": "AWSD-2021-001"
+      }
+    ],
+    "Projects": null,
+    "Skills": null
+  }
+  

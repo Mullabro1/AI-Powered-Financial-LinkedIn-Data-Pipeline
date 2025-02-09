@@ -1,0 +1,49 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/C4D03AQE67kqOKeNRwg/profile-displayphoto-shrink_800_800/0/1611001930239?e=1726099200&v=beta&t=oBgf53Hcw8KIiUVvbEYpSlMk1cJt29nLgLZsS6V37K8",
+  "profileName": "Mukund Kshirsagar",
+  "jobTitle": "Staff HPC Systems Engineer, Transformational Computing",
+  "location": "Rockville, Maryland, United States",
+  "aboutText": "Experienced engineer in RF electrical hardware design, product development, and technical feasibility with expertise in cross-functional teams and program management.",
+  "experienceData": [
+    {
+      "company": "Northrop Grumman Mission Systems, Inc.",
+      "title": "Staff HPC Systems Engineer, Transformational Computing",
+      "duration": "10 mos",
+      "location": "Linthicum Heights, Maryland, United States · On-site",
+      "description": "N/A"
+    },
+    {
+      "company": "AMD",
+      "title": "Principal Member of Technical Staff - Data Center System Design",
+      "duration": "1 yr 2 mos",
+      "location": "Austin, Texas, United States · On-site",
+      "description": "Led data center GPU HW design, architecture, and board design, and worked with customer designs for enterprise and workstation markets."
+    }
+  ],
+  "educationData": [
+    {
+      "school": "N/A",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    },
+    {
+      "school": "N/A",
+      "degree": "N/A",
+      "schoolDescription": "N/A",
+      "dateRange": "N/A - N/A",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/mukundkshirsagar/",
+  "website": "N/A"
+}

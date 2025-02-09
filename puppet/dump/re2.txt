@@ -1,0 +1,63 @@
+About Text: As the co-founder of Sternum, I’ve been fortunate to lead a groundbreaking journey in IoT and device security. Together with an exceptional team, we built patented technology from the ground up to tackle some of the toughest challenges in this space, including runtime memory protection, control flow integrity, and anomaly detection.
+
+Before founding Sternum, I served in Israel's elite Unit 8200 and gained extensive experience as a vulnerability researcher and team leader across multiple companies. During this time, I developed a deep technical foundation in cybersecurity, specializing in zero-day vulnerability discovery and exploitation of complex systems. This expertise shaped Sternum’s approach to securing IoT devices at scale.
+
+Our work has enabled us to partner with industry leaders in the medical and defense sectors, working alongside innovators in various industries to transform medical device security and safeguard critical military assets. Raising over $35M in funding and reaching multi-million-dollar ARR were milestones, but what I value most are the relationships we built with our team and customers along the way.
+Experience Data: [
+  {
+    company: 'Sternum',
+    title: 'President',
+    duration: 'אוק׳ 2024 -להציג 2 חודשים',
+    location: 'אוק׳ 2024 -להציג 2 חודשים',
+    description: 'No description available'
+  },
+  {
+    company: 'Sternum',
+    title: 'Co-Founder & CEO',
+    duration: 'יולי 2018 - נוב׳ 2024 6 שנים 5 חודשים',
+    location: 'יולי 2018 - נוב׳ 2024 6 שנים 5 חודשים',
+    description: 'Sternum provides runtime security and observability for IoT, embedded and linux-based systems with a unique zero-day prevention capabilities and AI-powered cloud platform.\n' +
+      '• Built Sternum’s embedded security platform from the ground up. Invented and patented unique algorithms that provide runtime protection and anomaly detection, with features like memory protection, control flow integrity and command injection prevention.\n' +
+      '• Raised over $35M in funding from top venture capital firms;…\n' +
+      'רוצה לראות יותר'
+  },
+  {
+    company: 'Undisclosed',
+    title: 'Senior Linux kernel & Android Researcher',
+    duration: 'אפר׳ 2017 - יוני 2018 1 חודשי שנה 3',
+    location: 'אפר׳ 2017 - יוני 2018 1 חודשי שנה 3',
+    description: '• Conducted in-depth Linux kernel and Android vulnerability research, specializing in zero-day vulnerability discovery and exploitation.\n' +
+      '• Discovered a critical zero-day vulnerability in the Linux kernel, implementing a scalable exploitation technique that contributed directly to significant revenue growth for the company.\n' +
+      '• Developed and executed advanced exploitation techniques across multiple platforms, reinforcing the organization’s competitive edge in mobile security.'
+  },
+  {
+    company: 'Cellebrite',
+    title: 'Research Team Leader',
+    duration: 'אוג׳ 2016 - אפר׳ 2017 9 חודשים',
+    location: 'אוג׳ 2016 - אפר׳ 2017 9 חודשים',
+    description: '• Led the Android vulnerability research team, focusing on reverse engineering and exploitation in Android environments.\n' +
+      '• Specialized in zero-day vulnerability research and exploitation, memory corruption, and remote code execution.\n' +
+      '• Played a pivotal role in pioneering Android security advancements and developing in-house tools for vulnerability exploitation.'
+  },
+  {
+    company: 'Cellebrite',
+    title: 'Security Researcher',
+    duration: 'אוק׳ 2013 - אוג׳ 2016 2 שנים 11 חודשים',
+    location: 'אוק׳ 2013 - אוג׳ 2016 2 שנים 11 חודשים',
+    description: '• Conducted in-depth vulnerability research on mobile platforms, specializing in Linux systems, reverse engineering, and advanced memory exploitation.\n' +
+      '• Discovered and successfully exploited zero-day vulnerabilities, leading to new capabilities and customer acquisitions.'
+  },
+  {
+    company: 'Unit 8200 - Israeli Intelligence Corps',
+    title: 'Software Developer',
+    duration: '2011 - 2013 2 שנים',
+    location: '2011 - 2013 2 שנים',
+    description: 'Designed and implemented mission-critical, zero fault software components in C/C++ for Windows-based environments which required low level knowledge and understanding of windows internals. Also developed software for different embedded devices.\n' +
+      'Experience in\n' +
+      '• C/C++ (Win32)\n' +
+      '• Windows Internals\n' +
+      '• Network related development\n' +
+      '• Python\n' +
+      '• Cyber Security'
+  }
+]

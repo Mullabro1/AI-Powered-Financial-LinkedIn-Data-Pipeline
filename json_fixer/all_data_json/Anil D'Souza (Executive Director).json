@@ -1,0 +1,41 @@
+{
+    "ProfileImageURL": "https://media.licdn.com/dms/image/C5603AQEcBZhJKItWag/profile-displayphoto-shrink_200_200/0/1516267722269?e=1726099200&v=beta&t=NqQnJXVMPG1ma-P7KVpRlJQpBX6BkLB6AW4d_8WXZMg",
+    "ProfileName": "Anil D'Souza",
+    "JobTitle": "Executive Director at Morgan Stanley",
+    "Location": "Mumbai, Maharashtra, India",
+    "AboutText": "Extensive technical experience of working on mission-critical and large-scale IT systems with reputed brands like Morgan Stanley, Dassault Systemmes and Citibank in the area of investment Banking, Solid Modelling, and PLM. Specialties: software systems design, development, project management.",
+    "ExperienceData": [
+      {
+        "company": "Morgan Stanley",
+        "title": "Executive Director, Technology",
+        "duration": "Jan 2017 - Present",
+        "location": "Mumbai",
+        "description": "Working in the domain of Portfolio Accounting for the Prime Brokerage group. Extensive experience interacting with business for gathering requirements, solving issues, production support, design and development of new systems."
+      },
+      {
+        "company": "Morgan Stanley",
+        "title": "Vice President, Technology",
+        "duration": "Jan 2011 - Jan 2017",
+        "location": "Mumbai",
+        "description": null
+      }
+    ],
+    "EducationData": [
+      {
+        "schoolName": "Indian Institute of Technology, Bombay",
+        "degreeField": "MTech, Manufacturing Engg",
+        "startYear": "1997",
+        "endYear": "1999"
+      },
+      {
+        "schoolName": "College of Engineering, Goa",
+        "degreeField": "B.E., Mechanical Engg",
+        "startYear": "1993",
+        "endYear": "1997"
+      }
+    ],
+    "CertificationsData": null,
+    "Projects": null,
+    "Skills": "Unix, Software Design, Sybase, C++, Requirements Analysis, Quality Assurance, Agile Methodologies, SQL, Core Java, Business Analysis, Software Project Management, Software Development Life Cycle (SDLC), DB2"
+  }
+  

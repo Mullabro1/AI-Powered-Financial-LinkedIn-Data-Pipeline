@@ -1,0 +1,68 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/C4D03AQE67kqOKeNRwg/profile-displayphoto-shrink_800_800/0/1611001930239?e=1726099200&v=beta&t=oBgf53Hcw8KIiUVvbEYpSlMk1cJt29nLgLZsS6V37K8",
+    "Profile Name": "Mukund Kshirsagar",
+    "Job Title": "Staff HPC Systems Engineer, Transformational Computing",
+    "Location": "Rockville, Maryland, United States",
+    "About Text": "Experienced engineer in RF electrical hardware design, product development, and technical feasibility with expertise in cross-functional teams and program management.",
+    "Experience Data": [
+      {
+        "company": "Northrop Grumman Mission Systems, Inc.",
+        "title": "Staff HPC Systems Engineer, Transformational Computing",
+        "duration": "10 mos",
+        "location": "Linthicum Heights, Maryland, United States · On-site",
+        "description": null
+      },
+      {
+        "company": "AMD",
+        "title": "Principal Member of Technical Staff - Data Center System Design",
+        "duration": "1 yr 2 mos",
+        "location": "Austin, Texas, United States · On-site",
+        "description": "Led data center GPU HW design, architecture, and board design, and worked with customer designs for enterprise and workstation markets."
+      }
+    ],
+    "Education Data": [
+      {
+        "school": "University of Maryland - Robert H. Smith School of Business",
+        "degree": "Master of Business Administration - MBA",
+        "schoolDescription": null,
+        "dateRange": "Aug 2018 - Jun 2021",
+        "schoolUrl": "https://www.linkedin.com/company/3640/"
+      },
+      {
+        "school": "Florida Institute of Technology",
+        "degree": "Master of Science - MS, Electrical Engineering",
+        "schoolDescription": null,
+        "dateRange": "Aug 1999 - Dec 2000",
+        "schoolUrl": "https://www.linkedin.com/company/15369/"
+      }
+    ],
+    "Skills Data": [
+      {
+        "skill": "Fiber Optics",
+        "endorsements": 30
+      },
+      {
+        "skill": "Optical Fiber",
+        "endorsements": 9
+      },
+      {
+        "skill": "RF",
+        "endorsements": 23
+      },
+      {
+        "skill": "Ethernet",
+        "endorsements": 20
+      },
+      {
+        "skill": "Wireless",
+        "endorsements": 16
+      },
+      {
+        "skill": "OTN",
+        "endorsements": 7
+      }
+    ],
+    "LinkedIn URL": "https://www.linkedin.com/in/mukundkshirsagar/",
+    "Website": null
+  }
+  

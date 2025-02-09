@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    container_name: pdf2json
+    ports:
+      - "5000:5000"  # Expose port 5000 to access the Flask app
+    volumes:
+      - .:/app  # Mount the current directory (your code) to /app inside the container
+    environment:
+      - FLASK_ENV=development  # Ensure Flask runs in development mode for auto-reloading
+    restart: always

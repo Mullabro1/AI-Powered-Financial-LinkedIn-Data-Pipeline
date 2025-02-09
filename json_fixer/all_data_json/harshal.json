@@ -1,0 +1,68 @@
+{
+    "Profile Image URL": "https://media.licdn.com/dms/image/D4D03AQF_2xyGx9pv_A/profile-displayphoto-shrink_800_800/0/1671105709202?e=1726099200&v=beta&t=7bv0_Wxsif3sPWPeVtQpX0FeauDzp2mz2lnQ-ED2RR8",
+    "Profile Name": "Harshal Udani",
+    "Job Title": "Manager",
+    "Location": "Dubai, United Arab Emirates",
+    "About Text": "Tax Specialist with over 9 years of experience in taxation, corporate tax, and VAT. Skilled in tax advisory, audit, and international taxation.",
+    "Experience Data": [
+      {
+        "company": "Sobha Realty",
+        "title": "Manager",
+        "duration": "10 mos",
+        "location": "Dubai, United Arab Emirates · On-site",
+        "description": "Corporate Tax and VAT"
+      },
+      {
+        "company": "DHC | Desai Haribhakti",
+        "title": "Senior Manager - International Tax and Transfer Pricing",
+        "duration": "1 yr 2 mos",
+        "location": "Mumbai, Maharashtra, India · On-site",
+        "description": "Supporting tax implications of foreign remittances, managing direct taxation functions including filing returns, assessments, appeals, and transfer pricing."
+      }
+    ],
+    "Education Data": [
+      {
+        "school": "The Institute of Chartered Accountants of India",
+        "degree": "CHARTERED ACCOUNTANT, CHARTERED ACCOUNTANT",
+        "schoolDescription": null,
+        "dateRange": "2011 - 2015",
+        "schoolUrl": "https://www.linkedin.com/company/1968486/"
+      },
+      {
+        "school": "Narsee Monjee College of Commerce and Economics",
+        "degree": "Bachelor of Commerce (B.Com.), Bachelor of Commerce",
+        "schoolDescription": null,
+        "dateRange": "2009 - 2014",
+        "schoolUrl": null
+      }
+    ],
+    "Skills Data": [
+      {
+        "skill": "Stakeholder Engagement",
+        "endorsements": null
+      },
+      {
+        "skill": "MIS Reporting",
+        "endorsements": null
+      },
+      {
+        "skill": "Transfer Pricing",
+        "endorsements": 21
+      },
+      {
+        "skill": "International Tax",
+        "endorsements": 21
+      },
+      {
+        "skill": "Direct Taxation",
+        "endorsements": 43
+      },
+      {
+        "skill": "Tax",
+        "endorsements": 4
+      }
+    ],
+    "LinkedIn URL": "https://www.linkedin.com/in/harshal-udani-17b27471/",
+    "Website": null
+  }
+  

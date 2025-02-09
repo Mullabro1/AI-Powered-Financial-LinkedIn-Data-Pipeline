@@ -1,0 +1,119 @@
+[
+    {
+      "Profile Image URL": "https://media.licdn.com/dms/image/C5103AQGjlHX6t_3ZQA/profile-displayphoto-shrink_800_800/0/1547563769481?e=1726099200&v=beta&t=9BFHx47TCdzoTW2znEyxHgV_VL4mMW9FXVrGUdQdQks",
+      "Profile Name": "Raj Kumar Kothari",
+      "Job Title": "Associate Vice President at Ergode",
+      "Location": "Mumbai, Maharashtra, India",
+      "About Text": "At Ergode, my leadership as Associate Vice President has been instrumental in driving e-commerce growth, with a strong focus on strategic management and M&A. The foundations laid from managing the Amazon FBA business to overseeing the successful acquisition and integration of the Vizari Brand showcase a dedication to optimizing operations and marketing for sustained profitability.",
+      "Experience Data": [
+        {
+          "company": "Ergode",
+          "title": "Associate Vice President",
+          "duration": "Apr 2021 - Present",
+          "location": "Texas, United States",
+          "description": "Led the Amazon FBA Team at VirVentures, overseeing departments including Buying, Vendor Relationship, Operations, Marketing, and Business Intelligence. Managed the P&L of the VirVentures department, ensuring consistent net profitability for over 30 quarters."
+        },
+        {
+          "company": "Ergode",
+          "title": "General Manager",
+          "duration": "Apr 2017 - Mar 2021",
+          "location": "Houston, Texas Area",
+          "description": "Achieved corporate growth objectives through providing strategic direction, diverse perspectives, and positive leadership."
+        }
+      ],
+      "Education Data": [
+        {
+          "schoolName": "International School of Business & Media",
+          "degreeField": "MBA in Finance/Marketing",
+          "startYear": "2008",
+          "endYear": "2010"
+        },
+        {
+          "schoolName": "Siliguri College of Commerce",
+          "degreeField": "Bachelor's Degree in Accounting and Finance",
+          "startYear": "2004",
+          "endYear": "2007"
+        }
+      ],
+      "Certifications Data": [],
+      "Projects": null,
+      "Skills": [
+        "Brand Management",
+        "Pay Per Click (PPC)",
+        "Content Management",
+        "Strategic Thinking",
+        "Cross-functional Team Leadership",
+        "Digital Marketing",
+        "Amazon FBA",
+        "E-commerce",
+        "M&A",
+        "Business Development"
+      ]
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Shrinath Oza",
+      "Job Title": "Manager at Reliance Infrastructure Ltd",
+      "Location": "Mumbai, Maharashtra, India",
+      "About Text": null,
+      "Experience Data": [
+        {
+          "company": "Reliance Infrastructure Ltd",
+          "title": "Manager",
+          "duration": "Oct 2006 - Present",
+          "location": "Mumbai, Maharashtra, India",
+          "description": null
+        }
+      ],
+      "Education Data": [
+        {
+          "schoolName": "Govt College of Engineering Aurangabad",
+          "degreeField": "BE in Civil Engineering",
+          "startYear": null,
+          "endYear": null
+        }
+      ],
+      "Certifications Data": [],
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Rishi Gangawane",
+      "Job Title": null,
+      "Location": "Pune, Maharashtra, India",
+      "About Text": null,
+      "Experience Data": [],
+      "Education Data": [
+        {
+          "schoolName": "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad",
+          "degreeField": "MA in Psychology, Clinical Psychology",
+          "startYear": "2023",
+          "endYear": "2023"
+        }
+      ],
+      "Certifications Data": [],
+      "Projects": null,
+      "Skills": null
+    },
+    {
+      "Profile Image URL": null,
+      "Profile Name": "Gunjan Jawaharani",
+      "Job Title": "Student at School of Fashion Technology",
+      "Location": "Pune, Maharashtra, India",
+      "About Text": null,
+      "Experience Data": [],
+      "Education Data": [
+        {
+          "schoolName": "School of Fashion Technology",
+          "degreeField": "Bachelor's degree in Fashion/Apparel Design",
+          "startYear": "2016",
+          "endYear": "2020"
+        }
+      ],
+      "Certifications Data": [],
+      "Projects": null,
+      "Skills": null
+    }
+  ]
+  

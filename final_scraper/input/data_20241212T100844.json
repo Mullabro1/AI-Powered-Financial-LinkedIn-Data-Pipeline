@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2024-12-10T08:35:24.455Z",
+    "input": "{\"url\":\"https://linkedin.com/in/dilip-makwana-96581116\"}",
+    "warning": "4XX page - dead page. Looks like this page is off the market.",
+    "warning_code": "dead_page",
+    "reference": "dher"
+  }
+]

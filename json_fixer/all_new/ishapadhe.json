@@ -1,0 +1,49 @@
+{
+  "profileImageUrl": "https://media.licdn.com/dms/image/D4D03AQGIUn0AzUnlrQ/profile-displayphoto-shrink_800_800/0/1689688480008?e=1726099200&v=beta&t=w33QFEtN-nLn4_LCbLdHTBiy4i5b_lKUuttk81gHLW8",
+  "profileName": "Isha Padhye",
+  "jobTitle": "Executive (Digital Operations and Platforms)",
+  "location": "Pune, Maharashtra, India",
+  "aboutText": "Hello. I am a Chartered Accountant by profession. I have 6+ years of experience including my articleship. During my Chartered Accountancy course, I have developed interest in Indian as well as in International Taxation. To enhance my knowledge, I have currently enrolled in the courses focusing on Transfer Pricing and Advanced Corporate Taxation. Apart from my profession, I am a trained Voice Over and Dubbing Artist. I have also trained in Bharatanatyam dance form and Classical music. My other interests are reading and travelling, listening to music. Thank you for visiting my Profile. If you would like to reach out to me, feel free to email me at - isha.spadhye@gmail.com.",
+  "experienceData": [
+    {
+      "company": "Wipro",
+      "title": "Executive (Digital Operations and Platforms)",
+      "duration": "Aug 2023 - Jan 2024 6 mos",
+      "location": "Pune, Maharashtra, India · Hybrid",
+      "description": "* Assisted in Preparation of WHT and VAT Returns as per the Client Local Laws.\n* Performed Monthly Reconciliations of Tax related Ledgers."
+    },
+    {
+      "company": "ICICI Bank",
+      "title": "Deputy Manager",
+      "duration": "Jun 2022 - Dec 2022 7 mos",
+      "location": "Pune, Maharashtra, India · On-site",
+      "description": "* Performed Credit Appraisal of Home Loan Proposals and Self Help Group (Agri Credit) Loan proposals.\n* Analyzed the Financial Statements, Income Tax Returns and Other documents for determining loan eligibility.\n* Co-ordinated with Sales Department for speedy and hassle free appraisal process.\n* Provided customer service for smooth loan process."
+    }
+  ],
+  "educationData": [
+    {
+      "school": "The Institute of Chartered Accountants of India",
+      "degree": "Chartered Accountant",
+      "schoolDescription": "N/A",
+      "dateRange": "2012 - 2023",
+      "schoolUrl": "N/A"
+    },
+    {
+      "school": "GDCA Board, Maharashtra",
+      "degree": "Government Diploma in Co-operation & Accountancy",
+      "schoolDescription": "N/A",
+      "dateRange": "2018 - 2018",
+      "schoolUrl": "N/A"
+    }
+  ],
+  "skillsData": [
+    {
+      "skill": "N/A",
+      "endorsements": 0
+    }
+  ],
+  "certificationsData": [],
+  "projectsData": [],
+  "linkedInUrl": "https://www.linkedin.com/in/ishapadhye/",
+  "website": "N/A"
+}

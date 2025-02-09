@@ -1,0 +1,41 @@
+{
+    "Profile Image URL": null,
+    "Profile Name": "Prof. J N Sarvaiya",
+    "Job Title": "Assistant Professor",
+    "Location": "Surat, Gujarat, India",
+    "About Text": null,
+    "Experience Data": [
+      {
+        "company": "SVNIT, ECED, Surat",
+        "title": "Assistant Professor",
+        "duration": "Jan 1998 - Present",
+        "location": null,
+        "description": null
+      },
+      {
+        "company": "Parle Agro Pvt Ltd",
+        "title": "GET",
+        "duration": "Jan 1997 - Dec 1997",
+        "location": null,
+        "description": null
+      }
+    ],
+    "Education Data": [
+      {
+        "schoolName": "Indian Institute of Technology, Bombay",
+        "degreeField": "M.Tech, Biomedical Engineering",
+        "startYear": "2004",
+        "endYear": "2006"
+      },
+      {
+        "schoolName": "SVRCET, Surat",
+        "degreeField": "B.E, Electronics",
+        "startYear": "1992",
+        "endYear": "1996"
+      }
+    ],
+    "Certifications Data": null,
+    "Projects": null,
+    "Skills": null
+  }
+  

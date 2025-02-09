@@ -1,0 +1,4743 @@
+{
+    "CIN": "U93090MH2018PTC308253",
+    "Name": "DREAMPLUG TECHNOLOGIES PRIVATE LIMITED",
+    "Type": "Non-government company, Private, Unlisted",
+    "Status": "Active",
+    "Corpository Sector": "Information Technology - Designing, Development & Support Services",
+    "PAN": "AAGCD6555Q",
+    "LEI": "3358009PTDF3JSS9N195",
+    "Full Address": "404, Uphar II CHS Ltd, Plot No.5 BHD,   Sanjeeva ENCL 7 Bunglows,Near JuhuCircle Mumbai Mumbai City Maharashtra 400061 India",
+    "Email Id": "vasanth@cred.club",
+    "Website": "-",
+    "Telephone Number": "9967955286",
+    "amount_type": "Amount in ₹Million",
+    "data": [
+        {
+            "date_range": "2018-2019",
+            "data": {
+                "balance_sheet": [
+                    {
+                        "Share Capital": "101.15"
+                    },
+                    {
+                        "Reserves & Surplus": "1076.64"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "1177.79"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "50.36"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "0"
+                    },
+                    {
+                        "Long-term Provisions": "4.65"
+                    },
+                    {
+                        "Total Non Current Liabilities": "4.65"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "55.93"
+                    },
+                    {
+                        "Other Current Liabilities": "325.42"
+                    },
+                    {
+                        "Short-term Provisions": "0"
+                    },
+                    {
+                        "Total Current Liabilities": "381.35"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "1614.16"
+                    },
+                    {
+                        "Tangible Assets": "14.65"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "14.65"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "14.65"
+                    },
+                    {
+                        "Non Current Investment": "0"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "47.59"
+                    },
+                    {
+                        "Other Non Current Assets": "0"
+                    },
+                    {
+                        "Total Non Current Assets": "62.24"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "0"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "670.95"
+                    },
+                    {
+                        "Short-term Loans & Advances": "4.54"
+                    },
+                    {
+                        "Other Current Assets": "876.42"
+                    },
+                    {
+                        "Total Current Assets": "1551.91"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "1614.16"
+                    }
+                ],
+                "financials": [
+                    {
+                        "Revenue from Operations": "0"
+                    },
+                    {
+                        "EBITDA": "-637.23"
+                    },
+                    {
+                        "PAT": "-608.69"
+                    },
+                    {
+                        "Networth": "1,177.79"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Revenue from Operations": "886.01"
+                    },
+                    {
+                        "EBITDA": "-5,214.67"
+                    },
+                    {
+                        "PAT": "-5,238.57"
+                    },
+                    {
+                        "Networth": "7,095.94"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    }
+                ],
+                "profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "0"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "0"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "0"
+                    },
+                    {
+                        "Other Income": "30.38"
+                    },
+                    {
+                        "Total Revenue": "30.38"
+                    },
+                    {
+                        "Cost of Materials Consumed": "107.55"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "170.25"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "170.25"
+                    },
+                    {
+                        "Total Other Expenses": "359.43"
+                    },
+                    {
+                        "Payment to Auditors": ".75"
+                    },
+                    {
+                        "Insurance Expenses": "0"
+                    },
+                    {
+                        "Power and Fuel": "1.02"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "357.66"
+                    },
+                    {
+                        "EBITDA": "-637.23"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "0"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "1.84"
+                    },
+                    {
+                        "Total Expenses": "639.07"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-608.69"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-608.69"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-608.69"
+                    },
+                    {
+                        "Current Tax": "0"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-608.69"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)": "-608.69"
+                    }
+                ],
+                "ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "-"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "4.07"
+                    },
+                    {
+                        "Quick Ratio": "4.07"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.37"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-"
+                    },
+                    {
+                        "Fixed Assets Turnover": "0.00"
+                    },
+                    {
+                        "Total Asset Turnover": "0.02"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "0"
+                    },
+                    {
+                        "Receivables Days*": "-"
+                    },
+                    {
+                        "Payable Days*": "190"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "-"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "-"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "-"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "-"
+                    }
+                ]
+            }
+        },
+        {
+            "date_range": "2019-2020",
+            "data": {
+                "balance_sheet": [
+                    {
+                        "Share Capital": "163.77"
+                    },
+                    {
+                        "Reserves & Surplus": "6004.19"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "6167.96"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "176.41"
+                    },
+                    {
+                        "Long-term Provisions": "7.68"
+                    },
+                    {
+                        "Total Non Current Liabilities": "184.09"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "202.3"
+                    },
+                    {
+                        "Other Current Liabilities": "379.07"
+                    },
+                    {
+                        "Short-term Provisions": "0.01"
+                    },
+                    {
+                        "Total Current Liabilities": "581.38"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "6933.43"
+                    },
+                    {
+                        "Tangible Assets": "256.47"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "256.47"
+                    },
+                    {
+                        "Capital Work in Progress": "30.37"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "286.84"
+                    },
+                    {
+                        "Non Current Investment": "0"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Non Current Assets": "60.73"
+                    },
+                    {
+                        "Total Non Current Assets": "347.57"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "4.66"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "5052.23"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "1528.97"
+                    },
+                    {
+                        "Total Current Assets": "6585.86"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "6933.43"
+                    }
+                ],
+                "financials": [
+                    {
+                        "Revenue from Operations": "5.21"
+                    },
+                    {
+                        "EBITDA": "-3,742.86"
+                    },
+                    {
+                        "PAT": "-3,611.11"
+                    },
+                    {
+                        "Networth": "6,167.96"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Revenue from Operations": "3,944.16"
+                    },
+                    {
+                        "EBITDA": "-12,909.19"
+                    },
+                    {
+                        "PAT": "-12,795.84"
+                    },
+                    {
+                        "Networth": "29,661.47"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    }
+                ],
+                "profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "5.21"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "5.21"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "5.21"
+                    },
+                    {
+                        "Other Income": "176.25"
+                    },
+                    {
+                        "Total Revenue": "181.46"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "728.22"
+                    },
+                    {
+                        "Managerial Remuneration": "8.09"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "720.13"
+                    },
+                    {
+                        "Total Other Expenses": "3,019.85"
+                    },
+                    {
+                        "Payment to Auditors": "1.00"
+                    },
+                    {
+                        "Insurance Expenses": "0"
+                    },
+                    {
+                        "Power and Fuel": "2.23"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "3,016.62"
+                    },
+                    {
+                        "EBITDA": "-3,742.86"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "18.03"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "26.47"
+                    },
+                    {
+                        "Total Expenses": "3,792.57"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-3,611.11"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-3,611.11"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-3,611.11"
+                    },
+                    {
+                        "Current Tax": "0"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-3,611.11"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)": "-3,611.11"
+                    }
+                ],
+                "ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "-"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "11.33"
+                    },
+                    {
+                        "Quick Ratio": "11.33"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.12"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-"
+                    },
+                    {
+                        "Fixed Assets Turnover": "0.02"
+                    },
+                    {
+                        "Total Asset Turnover": "0.03"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "327"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "13,977.35"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "346.07"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "57,962.57"
+                    }
+                ]
+            }
+        },
+        {
+            "date_range": "2020-2021",
+            "data": {
+                "balance_sheet": [
+                    {
+                        "Share Capital": "4"
+                    },
+                    {
+                        "Reserves & Surplus": "7091.77"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "7095.77"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "130"
+                    },
+                    {
+                        "Long-term Provisions": "30.07"
+                    },
+                    {
+                        "Total Non Current Liabilities": "160.07"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "348.71"
+                    },
+                    {
+                        "Other Current Liabilities": "1619.07"
+                    },
+                    {
+                        "Short-term Provisions": "0.03"
+                    },
+                    {
+                        "Total Current Liabilities": "1967.81"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "9408.65"
+                    },
+                    {
+                        "Tangible Assets": "131.37"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "131.37"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "131.37"
+                    },
+                    {
+                        "Non Current Investment": "222.51"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Non Current Assets": "179.65"
+                    },
+                    {
+                        "Total Non Current Assets": "533.53"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "44.42"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "6145.82"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "2684.88"
+                    },
+                    {
+                        "Total Current Assets": "8875.12"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "9408.65"
+                    }
+                ],
+                "consolidated_balance_sheet": [
+                    {
+                        "Share Capital": "4"
+                    },
+                    {
+                        "Reserves & Surplus": "7091.94"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "7095.94"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "185"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "130"
+                    },
+                    {
+                        "Long-term Provisions": "30.08"
+                    },
+                    {
+                        "Total Non Current Liabilities": "160.08"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "348.9"
+                    },
+                    {
+                        "Other Current Liabilities": "1619.1"
+                    },
+                    {
+                        "Short-term Provisions": "0.03"
+                    },
+                    {
+                        "Total Current Liabilities": "1968.03"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "9409.05"
+                    },
+                    {
+                        "Tangible Assets": "131.37"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "131.37"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "131.37"
+                    },
+                    {
+                        "Non Current Investment": "0"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Non Current Assets": "179.65"
+                    },
+                    {
+                        "Total Non Current Assets": "311.02"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "44.42"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "6368.56"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "2685.05"
+                    },
+                    {
+                        "Total Current Assets": "9098.03"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "9409.05"
+                    }
+                ],
+                "consolidated_cash_flow_statement": [
+                    {
+                        "Profit before tax": "-5,238.51"
+                    },
+                    {
+                        "Adjustments for finance costs": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in inventories": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, current": "-39.76"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other current assets": "-799.82"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other non-current assets": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, current": "-342.63"
+                    },
+                    {
+                        "Adjustments for other bank balances": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, current": "146.56"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other current liabilities": "21.94"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other non-current liabilities": "0"
+                    },
+                    {
+                        "Adjustments for depreciation and amortisation expense": "66.54"
+                    },
+                    {
+                        "Adjustments for impairment loss reversal of impairment loss recognised in profit or loss": "0"
+                    },
+                    {
+                        "Adjustments for provisions, current": "18.35"
+                    },
+                    {
+                        "Adjustments for provisions, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, current": "27.07"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, non-current": "1,214.57"
+                    },
+                    {
+                        "Adjustments for unrealised foreign exchange losses gains": ".04"
+                    },
+                    {
+                        "Adjustments for dividend income": "0"
+                    },
+                    {
+                        "Adjustments for interest income": "64.07"
+                    },
+                    {
+                        "Adjustments for share-based payments": "441.34"
+                    },
+                    {
+                        "Adjustments for fair value losses (gains)": "0"
+                    },
+                    {
+                        "Adjustments for undistributed profits of associates": "0"
+                    },
+                    {
+                        "Other adjustments for which cash effects are investing or financing cash flow": "0"
+                    },
+                    {
+                        "Other adjustments to reconcile profit (loss)": "0"
+                    },
+                    {
+                        "Other adjustments for non-cash items": "-2.36"
+                    },
+                    {
+                        "Share of profit and loss from partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Total adjustments for reconcile profit (loss)": "687.77"
+                    },
+                    {
+                        "Net cash flows from (used in) operations": "-4,550.74"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest paid": "0"
+                    },
+                    {
+                        "Interest received": "0"
+                    },
+                    {
+                        "Income taxes paid (refund)": "6.09"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) operating activities": "-4,556.83"
+                    },
+                    {
+                        "Cash flows used in obtaining control of subsidiaries or other businesses": "0"
+                    },
+                    {
+                        "Other cash receipts from sales of equity or debt instruments of other entities": "0"
+                    },
+                    {
+                        "Other cash payments to acquire equity or debt instruments of other entities": "0"
+                    },
+                    {
+                        "Other cash receipts from sales of interests in joint ventures": "0"
+                    },
+                    {
+                        "Other cash payments to acquire interests in joint ventures": "0"
+                    },
+                    {
+                        "Cash receipts from share of profits of partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Cash payment for investment in partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Proceeds from sales of property, plant and equipment": "1.62"
+                    },
+                    {
+                        "Purchase of property, plant and equipment": "84.22"
+                    },
+                    {
+                        "Proceeds from sales of investment property": "0"
+                    },
+                    {
+                        "Purchase of investment property": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets": "0"
+                    },
+                    {
+                        "Purchase of intangible assets": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets under development": "0"
+                    },
+                    {
+                        "Purchase of intangible assets under development": "0"
+                    },
+                    {
+                        "Proceeds from sales of goodwill": "0"
+                    },
+                    {
+                        "Purchase of goodwill": "0"
+                    },
+                    {
+                        "Proceeds from biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Purchase of biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Proceeds from government grants": "0"
+                    },
+                    {
+                        "Proceeds from sales of other long-term assets": "0"
+                    },
+                    {
+                        "Purchase of other long-term assets": "0"
+                    },
+                    {
+                        "Cash advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash receipts from repayment of advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash payments for future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Cash receipts from future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest received": "97.93"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "-22.10"
+                    },
+                    {
+                        "Net cash flows from (used in) investing activities": "-6.77"
+                    },
+                    {
+                        "Payments from changes in ownership interests in subsidiaries": "0"
+                    },
+                    {
+                        "Proceeds from issuing shares": "6,002.72"
+                    },
+                    {
+                        "Proceeds from issuing other equity instruments": "0"
+                    },
+                    {
+                        "Payments to acquire or redeem entity's shares": "0"
+                    },
+                    {
+                        "Payments of other equity instruments": "88.44"
+                    },
+                    {
+                        "Proceeds from exercise of stock options": "0"
+                    },
+                    {
+                        "Proceeds from issuing debentures notes bonds etc": "0"
+                    },
+                    {
+                        "Proceeds from borrowings": "0"
+                    },
+                    {
+                        "Repayments of borrowings": "0"
+                    },
+                    {
+                        "Payments of finance lease liabilities": "0"
+                    },
+                    {
+                        "Payments of lease liabilities": "49.92"
+                    },
+                    {
+                        "Dividends paid": "0"
+                    },
+                    {
+                        "Interest paid": "6.53"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) financing activities": "5,857.83"
+                    },
+                    {
+                        "Effect of exchange rate changes on cash and cash equivalents": "0"
+                    },
+                    {
+                        "Net increase (decrease) in cash and cash equivalents": "1,294.23"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at beginning of period": "5,052.23"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at end of period": "6,346.46"
+                    }
+                ],
+                "consolidated_profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "886.01"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "886.01"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "886.01"
+                    },
+                    {
+                        "Other Income": "69.77"
+                    },
+                    {
+                        "Total Revenue": "955.78"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "1,347.25"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "1,347.25"
+                    },
+                    {
+                        "Total Other Expenses": "4,753.43"
+                    },
+                    {
+                        "Payment to Auditors": "3.70"
+                    },
+                    {
+                        "Insurance Expenses": "0"
+                    },
+                    {
+                        "Power and Fuel": "0"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "4,749.73"
+                    },
+                    {
+                        "EBITDA": "-5,214.67"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "27.07"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "66.54"
+                    },
+                    {
+                        "Total Expenses": "6,194.29"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-5,238.51"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-5,238.51"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-5,238.51"
+                    },
+                    {
+                        "Current Tax": ".06"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-5,238.57"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)*": "-5,238.57"
+                    }
+                ],
+                "consolidated_ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "-"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "4.62"
+                    },
+                    {
+                        "Quick Ratio": "4.62"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.33"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-"
+                    },
+                    {
+                        "Fixed Assets Turnover": "6.74"
+                    },
+                    {
+                        "Total Asset Turnover": "0.10"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "19"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "152.06"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "3.06"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "536.50"
+                    }
+                ],
+                "financials": [
+                    {
+                        "Revenue from Operations": "886.01"
+                    },
+                    {
+                        "EBITDA": "-5,214.45"
+                    },
+                    {
+                        "PAT": "-5,238.74"
+                    },
+                    {
+                        "Networth": "7,095.77"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Revenue from Operations": "14,002.66"
+                    },
+                    {
+                        "EBITDA": "-13,688.80"
+                    },
+                    {
+                        "PAT": "-13,474.73"
+                    },
+                    {
+                        "Networth": "41,159.72"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    }
+                ],
+                "profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "886.01"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "886.01"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "886.01"
+                    },
+                    {
+                        "Other Income": "69.32"
+                    },
+                    {
+                        "Total Revenue": "955.33"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "1,347.25"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "1,347.25"
+                    },
+                    {
+                        "Total Other Expenses": "4,753.21"
+                    },
+                    {
+                        "Payment to Auditors": "3.50"
+                    },
+                    {
+                        "Insurance Expenses": "0"
+                    },
+                    {
+                        "Power and Fuel": "0"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "4,749.71"
+                    },
+                    {
+                        "EBITDA": "-5,214.45"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "27.07"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "66.54"
+                    },
+                    {
+                        "Total Expenses": "6,194.07"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-5,238.74"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-5,238.74"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-5,238.74"
+                    },
+                    {
+                        "Current Tax": "0"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-5,238.74"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)": "-5,238.74"
+                    }
+                ],
+                "ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "16,905.95"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "4.51"
+                    },
+                    {
+                        "Quick Ratio": "4.51"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.33"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-"
+                    },
+                    {
+                        "Fixed Assets Turnover": "6.74"
+                    },
+                    {
+                        "Total Asset Turnover": "0.10"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "19"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "152.06"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "3.06"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "536.47"
+                    }
+                ]
+            }
+        },
+        {
+            "date_range": "2021-2022",
+            "data": {
+                "balance_sheet": [
+                    {
+                        "Share Capital": "235.98"
+                    },
+                    {
+                        "Reserves & Surplus": "29495.76"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "29731.74"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "201.13"
+                    },
+                    {
+                        "Long-term Provisions": "72.89"
+                    },
+                    {
+                        "Total Non Current Liabilities": "274.02"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "607.35"
+                    },
+                    {
+                        "Other Current Liabilities": "2241.51"
+                    },
+                    {
+                        "Short-term Provisions": "0.08"
+                    },
+                    {
+                        "Total Current Liabilities": "2848.94"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "32854.7"
+                    },
+                    {
+                        "Tangible Assets": "177.91"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "177.91"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "177.91"
+                    },
+                    {
+                        "Non Current Investment": "1145.43"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "951.07"
+                    },
+                    {
+                        "Other Non Current Assets": "550.87"
+                    },
+                    {
+                        "Total Non Current Assets": "2825.28"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "154.65"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "19347.68"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "10527.09"
+                    },
+                    {
+                        "Total Current Assets": "30029.42"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "32854.7"
+                    }
+                ],
+                "consolidated_balance_sheet": [
+                    {
+                        "Share Capital": "235.98"
+                    },
+                    {
+                        "Reserves & Surplus": "29425.49"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "29661.47"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "0"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "201.13"
+                    },
+                    {
+                        "Long-term Provisions": "77.23"
+                    },
+                    {
+                        "Total Non Current Liabilities": "278.36"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "616.23"
+                    },
+                    {
+                        "Other Current Liabilities": "2251.22"
+                    },
+                    {
+                        "Short-term Provisions": "0.08"
+                    },
+                    {
+                        "Total Current Liabilities": "2867.53"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "32807.36"
+                    },
+                    {
+                        "Tangible Assets": "177.91"
+                    },
+                    {
+                        "Intangible Assets": "262.63"
+                    },
+                    {
+                        "Net Block of Assets": "440.54"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "440.54"
+                    },
+                    {
+                        "Non Current Investment": "434.61"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "951.07"
+                    },
+                    {
+                        "Other Non Current Assets": "551.69"
+                    },
+                    {
+                        "Total Non Current Assets": "2377.91"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "154.65"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "23769.69"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "6505.11"
+                    },
+                    {
+                        "Total Current Assets": "30429.45"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "32807.36"
+                    }
+                ],
+                "consolidated_cash_flow_statement": [
+                    {
+                        "Profit before tax": "-12,795.56"
+                    },
+                    {
+                        "Adjustments for finance costs": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in inventories": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, current": "-110.23"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other current assets": "-1,851.75"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other non-current assets": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, current": "-3,124.47"
+                    },
+                    {
+                        "Adjustments for other bank balances": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, current": "267.33"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other current liabilities": "52.56"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other non-current liabilities": "0"
+                    },
+                    {
+                        "Adjustments for depreciation and amortisation expense": "143.30"
+                    },
+                    {
+                        "Adjustments for impairment loss reversal of impairment loss recognised in profit or loss": "0"
+                    },
+                    {
+                        "Adjustments for provisions, current": "44.16"
+                    },
+                    {
+                        "Adjustments for provisions, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, current": "569.36"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, non-current": "0"
+                    },
+                    {
+                        "Adjustments for unrealised foreign exchange losses gains": "0"
+                    },
+                    {
+                        "Adjustments for dividend income": "0"
+                    },
+                    {
+                        "Adjustments for interest income": "281.54"
+                    },
+                    {
+                        "Adjustments for share-based payments": "1,124.84"
+                    },
+                    {
+                        "Adjustments for fair value losses (gains)": "0"
+                    },
+                    {
+                        "Adjustments for undistributed profits of associates": "0"
+                    },
+                    {
+                        "Other adjustments for which cash effects are investing or financing cash flow": "0"
+                    },
+                    {
+                        "Other adjustments to reconcile profit (loss)": "0"
+                    },
+                    {
+                        "Other adjustments for non-cash items": "0"
+                    },
+                    {
+                        "Share of profit and loss from partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Total adjustments for reconcile profit (loss)": "-3,166.44"
+                    },
+                    {
+                        "Net cash flows from (used in) operations": "-15,962.00"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest paid": "0"
+                    },
+                    {
+                        "Interest received": "0"
+                    },
+                    {
+                        "Income taxes paid (refund)": "81.14"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) operating activities": "-16,043.14"
+                    },
+                    {
+                        "Cash flows used in obtaining control of subsidiaries or other businesses": "0"
+                    },
+                    {
+                        "Other cash receipts from sales of equity or debt instruments of other entities": "0"
+                    },
+                    {
+                        "Other cash payments to acquire equity or debt instruments of other entities": "434.61"
+                    },
+                    {
+                        "Other cash receipts from sales of interests in joint ventures": "0"
+                    },
+                    {
+                        "Other cash payments to acquire interests in joint ventures": "0"
+                    },
+                    {
+                        "Cash receipts from share of profits of partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Cash payment for investment in partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Proceeds from sales of property, plant and equipment": "0"
+                    },
+                    {
+                        "Purchase of property, plant and equipment": "393.50"
+                    },
+                    {
+                        "Proceeds from sales of investment property": "0"
+                    },
+                    {
+                        "Purchase of investment property": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets": "0"
+                    },
+                    {
+                        "Purchase of intangible assets": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets under development": "0"
+                    },
+                    {
+                        "Purchase of intangible assets under development": "0"
+                    },
+                    {
+                        "Proceeds from sales of goodwill": "0"
+                    },
+                    {
+                        "Purchase of goodwill": "0"
+                    },
+                    {
+                        "Proceeds from biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Purchase of biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Proceeds from government grants": "0"
+                    },
+                    {
+                        "Proceeds from sales of other long-term assets": "0"
+                    },
+                    {
+                        "Purchase of other long-term assets": "861.58"
+                    },
+                    {
+                        "Cash advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash receipts from repayment of advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash payments for future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Cash receipts from future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest received": "274.92"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) investing activities": "-1,414.77"
+                    },
+                    {
+                        "Payments from changes in ownership interests in subsidiaries": "0"
+                    },
+                    {
+                        "Proceeds from issuing shares": "34,362.58"
+                    },
+                    {
+                        "Proceeds from issuing other equity instruments": "0"
+                    },
+                    {
+                        "Payments to acquire or redeem entity's shares": "0"
+                    },
+                    {
+                        "Payments of other equity instruments": "308.01"
+                    },
+                    {
+                        "Proceeds from exercise of stock options": "0"
+                    },
+                    {
+                        "Proceeds from issuing debentures notes bonds etc": "0"
+                    },
+                    {
+                        "Proceeds from borrowings": "0"
+                    },
+                    {
+                        "Repayments of borrowings": "0"
+                    },
+                    {
+                        "Payments of finance lease liabilities": "0"
+                    },
+                    {
+                        "Payments of lease liabilities": "57.11"
+                    },
+                    {
+                        "Dividends paid": "0"
+                    },
+                    {
+                        "Interest paid": "0"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) financing activities": "33,997.46"
+                    },
+                    {
+                        "Effect of exchange rate changes on cash and cash equivalents": "0"
+                    },
+                    {
+                        "Net increase (decrease) in cash and cash equivalents": "16,539.55"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at beginning of period": "6,346.46"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at end of period": "22,886.01"
+                    }
+                ],
+                "consolidated_profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "3,944.16"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "3,944.16"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "3,944.16"
+                    },
+                    {
+                        "Other Income": "281.54"
+                    },
+                    {
+                        "Total Revenue": "4,225.70"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "3,076.06"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "3,076.06"
+                    },
+                    {
+                        "Total Other Expenses": "13,777.29"
+                    },
+                    {
+                        "Payment to Auditors": "4.55"
+                    },
+                    {
+                        "Insurance Expenses": "0"
+                    },
+                    {
+                        "Power and Fuel": "0"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "13,772.74"
+                    },
+                    {
+                        "EBITDA": "-12,909.19"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "24.45"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "143.30"
+                    },
+                    {
+                        "Total Expenses": "17,021.10"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-12,795.40"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "-.16"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-12,795.56"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-12,795.56"
+                    },
+                    {
+                        "Current Tax": ".28"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-12,795.84"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)*": "-12,795.84"
+                    }
+                ],
+                "consolidated_ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "345.16"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "10.61"
+                    },
+                    {
+                        "Quick Ratio": "10.61"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.11"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "0.00"
+                    },
+                    {
+                        "Fixed Assets Turnover": "8.95"
+                    },
+                    {
+                        "Total Asset Turnover": "0.13"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "15"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "77.99"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "0.62"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "349.31"
+                    }
+                ],
+                "financials": [
+                    {
+                        "Revenue from Operations": "3,925.01"
+                    },
+                    {
+                        "EBITDA": "-12,890.43"
+                    },
+                    {
+                        "PAT": "-12,725.40"
+                    },
+                    {
+                        "Networth": "29,731.74"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    }
+                ],
+                "profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "3,925.01"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "3,925.01"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "3,925.01"
+                    },
+                    {
+                        "Other Income": "294.05"
+                    },
+                    {
+                        "Total Revenue": "4,219.06"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "3,055.52"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "3,055.52"
+                    },
+                    {
+                        "Total Other Expenses": "13,759.92"
+                    },
+                    {
+                        "Payment to Auditors": "3.61"
+                    },
+                    {
+                        "Insurance Expenses": "34.59"
+                    },
+                    {
+                        "Power and Fuel": "0"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "13,721.72"
+                    },
+                    {
+                        "EBITDA": "-12,890.43"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "24.43"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "104.59"
+                    },
+                    {
+                        "Total Expenses": "16,944.46"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-12,725.40"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-12,725.40"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-12,725.40"
+                    },
+                    {
+                        "Current Tax": "0"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-12,725.40"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)": "-12,725.40"
+                    }
+                ],
+                "ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "343.00"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "10.54"
+                    },
+                    {
+                        "Quick Ratio": "10.54"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.11"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-"
+                    },
+                    {
+                        "Fixed Assets Turnover": "22.06"
+                    },
+                    {
+                        "Total Asset Turnover": "0.13"
+                    },
+                    {
+                        "Working Capital Turnover": "0"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "15"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "77.85"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "0.62"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "350.57"
+                    }
+                ]
+            }
+        },
+        {
+            "date_range": "2022-2023",
+            "data": {
+                "balance_sheet": [
+                    {
+                        "Share Capital": "245.98"
+                    },
+                    {
+                        "Reserves & Surplus": "39018.44"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "39264.42"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "0"
+                    },
+                    {
+                        "Other Non Current Liabilities": "199.94"
+                    },
+                    {
+                        "Long-term Provisions": "142.47"
+                    },
+                    {
+                        "Total Non Current Liabilities": "342.41"
+                    },
+                    {
+                        "Total Short-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "3649.11"
+                    },
+                    {
+                        "Other Current Liabilities": "515.17"
+                    },
+                    {
+                        "Short-term Provisions": "512.92"
+                    },
+                    {
+                        "Total Current Liabilities": "4677.2"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "44284.03"
+                    },
+                    {
+                        "Tangible Assets": "239.36"
+                    },
+                    {
+                        "Intangible Assets": "0"
+                    },
+                    {
+                        "Net Block of Assets": "239.36"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "239.36"
+                    },
+                    {
+                        "Non Current Investment": "17536.81"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "227"
+                    },
+                    {
+                        "Other Non Current Assets": "768.02"
+                    },
+                    {
+                        "Total Non Current Assets": "18771.19"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "449.88"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "5475.81"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "19587.15"
+                    },
+                    {
+                        "Total Current Assets": "25512.84"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "44284.03"
+                    }
+                ],
+                "consolidated_balance_sheet": [
+                    {
+                        "Share Capital": "245.98"
+                    },
+                    {
+                        "Reserves & Surplus": "40913.74"
+                    },
+                    {
+                        "Money Received against Warrants": "0"
+                    },
+                    {
+                        "Networth": "41159.72"
+                    },
+                    {
+                        "Share Application Money Pending Allotment": "0"
+                    },
+                    {
+                        "Deffered Government Grants": "0"
+                    },
+                    {
+                        "Minority Interest": "-15.69"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    },
+                    {
+                        "Secured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Long-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term Loans  (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Long-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Deferred Tax Liabilities": "381.92"
+                    },
+                    {
+                        "Other Non Current Liabilities": "276.6"
+                    },
+                    {
+                        "Long-term Provisions": "214.54"
+                    },
+                    {
+                        "Total Non Current Liabilities": "873.06"
+                    },
+                    {
+                        "Total Short-term Borrowings": "2.03"
+                    },
+                    {
+                        "Secured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "2.03"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "2.03"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "2.03"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Secured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Unsecured Short-term Borrowings (A)+ (B)+ (C) +(D)+ (E)": "0"
+                    },
+                    {
+                        "Bonds/ Debentures (A)": "0"
+                    },
+                    {
+                        "Bonds": "0"
+                    },
+                    {
+                        "Debentures": "0"
+                    },
+                    {
+                        "Term loans (B)": "0"
+                    },
+                    {
+                        "Term loans from banks": "0"
+                    },
+                    {
+                        "Term loans from others": "0"
+                    },
+                    {
+                        "Loans repayable on demand (C)": "0"
+                    },
+                    {
+                        "Loans repayable on demand from banks": "0"
+                    },
+                    {
+                        "Loans repayable on demand from others": "0"
+                    },
+                    {
+                        "Loans and advances from related parties (D)": "0"
+                    },
+                    {
+                        "Other Unsecured Short-term Borrowings (E)": "0"
+                    },
+                    {
+                        "Current Maturities of Long-Term Debt": "0"
+                    },
+                    {
+                        "Trade Payables": "1514.81"
+                    },
+                    {
+                        "Other Current Liabilities": "6792.4"
+                    },
+                    {
+                        "Short-term Provisions": "536.77"
+                    },
+                    {
+                        "Total Current Liabilities": "8846.01"
+                    },
+                    {
+                        "Other Equity & Liabilities": "0"
+                    },
+                    {
+                        "Total Equity & Liabilities": "50863.1"
+                    },
+                    {
+                        "Tangible Assets": "293.16"
+                    },
+                    {
+                        "Intangible Assets": "17048.55"
+                    },
+                    {
+                        "Net Block of Assets": "17341.71"
+                    },
+                    {
+                        "Capital Work in Progress": "0"
+                    },
+                    {
+                        "Intangible Asset under Development": "0"
+                    },
+                    {
+                        "Total Fixed Asset": "17341.71"
+                    },
+                    {
+                        "Non Current Investment": "1828.98"
+                    },
+                    {
+                        "Deferred Tax Assets (Net)": "0"
+                    },
+                    {
+                        "Long-term Loans & Advances": "7"
+                    },
+                    {
+                        "Other Non Current Assets": "986.51"
+                    },
+                    {
+                        "Total Non Current Assets": "20164.2"
+                    },
+                    {
+                        "Current Investment": "0"
+                    },
+                    {
+                        "Inventories": "0"
+                    },
+                    {
+                        "Trade Receivables": "712.35"
+                    },
+                    {
+                        "Cash & Cash Equivalents": "20630.8"
+                    },
+                    {
+                        "Short-term Loans & Advances": "0"
+                    },
+                    {
+                        "Other Current Assets": "9355.75"
+                    },
+                    {
+                        "Total Current Assets": "30698.9"
+                    },
+                    {
+                        "Other Total Assets": "0"
+                    },
+                    {
+                        "TOTAL ASSETS": "50863.1"
+                    }
+                ],
+                "consolidated_cash_flow_statement": [
+                    {
+                        "Profit before tax": "-13,460.37"
+                    },
+                    {
+                        "Adjustments for finance costs": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in inventories": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, current": "-739.26"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in trade receivables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other current assets": "-76.83"
+                    },
+                    {
+                        "Adjustments for decrease (increase) in other non-current assets": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial assets, current": "-2,797.10"
+                    },
+                    {
+                        "Adjustments for other bank balances": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, current": "-176.28"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in trade payables, non-current": "0"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other current liabilities": "327.18"
+                    },
+                    {
+                        "Adjustments for increase (decrease) in other non-current liabilities": "0"
+                    },
+                    {
+                        "Adjustments for depreciation and amortisation expense": "593.78"
+                    },
+                    {
+                        "Adjustments for impairment loss reversal of impairment loss recognised in profit or loss": "0"
+                    },
+                    {
+                        "Adjustments for provisions, current": "164.24"
+                    },
+                    {
+                        "Adjustments for provisions, non-current": "0"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, current": "4,192.73"
+                    },
+                    {
+                        "Adjustments for other financial liabilities, non-current": "0"
+                    },
+                    {
+                        "Adjustments for unrealised foreign exchange losses gains": "0"
+                    },
+                    {
+                        "Adjustments for dividend income": "0"
+                    },
+                    {
+                        "Adjustments for interest income": "636.02"
+                    },
+                    {
+                        "Adjustments for share-based payments": "2,983.52"
+                    },
+                    {
+                        "Adjustments for fair value losses (gains)": "0"
+                    },
+                    {
+                        "Adjustments for undistributed profits of associates": "0"
+                    },
+                    {
+                        "Other adjustments for which cash effects are investing or financing cash flow": "0"
+                    },
+                    {
+                        "Other adjustments to reconcile profit (loss)": "0"
+                    },
+                    {
+                        "Other adjustments for non-cash items": "789.21"
+                    },
+                    {
+                        "Share of profit and loss from partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Total adjustments for reconcile profit (loss)": "4,625.17"
+                    },
+                    {
+                        "Net cash flows from (used in) operations": "-8,835.20"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest paid": "0"
+                    },
+                    {
+                        "Interest received": "0"
+                    },
+                    {
+                        "Income taxes paid (refund)": "293.30"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) operating activities": "-9,128.50"
+                    },
+                    {
+                        "Cash flows used in obtaining control of subsidiaries or other businesses": "1,191.73"
+                    },
+                    {
+                        "Other cash receipts from sales of equity or debt instruments of other entities": "0"
+                    },
+                    {
+                        "Other cash payments to acquire equity or debt instruments of other entities": "384.03"
+                    },
+                    {
+                        "Other cash receipts from sales of interests in joint ventures": "0"
+                    },
+                    {
+                        "Other cash payments to acquire interests in joint ventures": "0"
+                    },
+                    {
+                        "Cash receipts from share of profits of partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Cash payment for investment in partnership firm or association of persons or limited liability partnerships": "0"
+                    },
+                    {
+                        "Proceeds from sales of property, plant and equipment": "0"
+                    },
+                    {
+                        "Purchase of property, plant and equipment": "209.29"
+                    },
+                    {
+                        "Proceeds from sales of investment property": "0"
+                    },
+                    {
+                        "Purchase of investment property": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets": "0"
+                    },
+                    {
+                        "Purchase of intangible assets": "0"
+                    },
+                    {
+                        "Proceeds from sales of intangible assets under development": "0"
+                    },
+                    {
+                        "Purchase of intangible assets under development": "0"
+                    },
+                    {
+                        "Proceeds from sales of goodwill": "0"
+                    },
+                    {
+                        "Purchase of goodwill": "0"
+                    },
+                    {
+                        "Proceeds from biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Purchase of biological assets other than bearer plants": "0"
+                    },
+                    {
+                        "Proceeds from government grants": "0"
+                    },
+                    {
+                        "Proceeds from sales of other long-term assets": "45.93"
+                    },
+                    {
+                        "Purchase of other long-term assets": "2,490.16"
+                    },
+                    {
+                        "Cash advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash receipts from repayment of advances and loans made to other parties": "0"
+                    },
+                    {
+                        "Cash payments for future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Cash receipts from future contracts, forward contracts, option contracts and swap contracts": "0"
+                    },
+                    {
+                        "Dividends received": "0"
+                    },
+                    {
+                        "Interest received": "608.53"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "193.00"
+                    },
+                    {
+                        "Net cash flows from (used in) investing activities": "-3,427.75"
+                    },
+                    {
+                        "Payments from changes in ownership interests in subsidiaries": "0"
+                    },
+                    {
+                        "Proceeds from issuing shares": "6,779.30"
+                    },
+                    {
+                        "Proceeds from issuing other equity instruments": "0"
+                    },
+                    {
+                        "Payments to acquire or redeem entity's shares": "0"
+                    },
+                    {
+                        "Payments of other equity instruments": "0"
+                    },
+                    {
+                        "Proceeds from exercise of stock options": "0"
+                    },
+                    {
+                        "Proceeds from issuing debentures notes bonds etc": "0"
+                    },
+                    {
+                        "Proceeds from borrowings": "2.03"
+                    },
+                    {
+                        "Repayments of borrowings": "0"
+                    },
+                    {
+                        "Payments of finance lease liabilities": "0"
+                    },
+                    {
+                        "Payments of lease liabilities": "103.33"
+                    },
+                    {
+                        "Dividends paid": "0"
+                    },
+                    {
+                        "Interest paid": ".35"
+                    },
+                    {
+                        "Income taxes paid (refund)": "0"
+                    },
+                    {
+                        "Other inflows (outflows) of cash": "0"
+                    },
+                    {
+                        "Net cash flows from (used in) financing activities": "6,677.65"
+                    },
+                    {
+                        "Effect of exchange rate changes on cash and cash equivalents": "0"
+                    },
+                    {
+                        "Net increase (decrease) in cash and cash equivalents": "-5,878.60"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at beginning of period": "22,886.01"
+                    },
+                    {
+                        "Cash and cash equivalents cash flow statement at end of period": "17,007.41"
+                    }
+                ],
+                "consolidated_profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "14,002.66"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "14,002.66"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "14,002.66"
+                    },
+                    {
+                        "Other Income": "843.67"
+                    },
+                    {
+                        "Total Revenue": "14,846.33"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "7,889.41"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "7,889.41"
+                    },
+                    {
+                        "Total Other Expenses": "19,802.05"
+                    },
+                    {
+                        "Payment to Auditors": "11.64"
+                    },
+                    {
+                        "Insurance Expenses": "37.29"
+                    },
+                    {
+                        "Power and Fuel": "2.62"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "19,750.50"
+                    },
+                    {
+                        "EBITDA": "-13,688.80"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "34.75"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "593.78"
+                    },
+                    {
+                        "Total Expenses": "28,319.99"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-13,473.66"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "13.29"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-13,460.37"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-13,460.37"
+                    },
+                    {
+                        "Current Tax": "105.85"
+                    },
+                    {
+                        "Deferred Tax": "-91.49"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-13,474.73"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)*": "-13,474.73"
+                    }
+                ],
+                "consolidated_ratios": [
+                    {
+                        "PROFITABILITY RATIOS": "     "
+                    },
+                    {
+                        "Revenue Growth (%)": "255.02"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "3.47"
+                    },
+                    {
+                        "Quick Ratio": "3.47"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.24"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "-0.00"
+                    },
+                    {
+                        "Fixed Assets Turnover": "0.81"
+                    },
+                    {
+                        "Total Asset Turnover": "0.29"
+                    },
+                    {
+                        "Working Capital Turnover": "1"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "19"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "56.34"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "0.25"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "141.42"
+                    }
+                ],
+                "financials": [
+                    {
+                        "Revenue from Operations": "12,374.10"
+                    },
+                    {
+                        "EBITDA": "-13,178.49"
+                    },
+                    {
+                        "PAT": "-12,321.12"
+                    },
+                    {
+                        "Networth": "39,264.42"
+                    },
+                    {
+                        "Long-term Borrowings": "0"
+                    }
+                ],
+                "profit_&_loss": [
+                    {
+                        "Revenue from Sale of Products": "0"
+                    },
+                    {
+                        "Revenue from Sale of Services": "12,374.10"
+                    },
+                    {
+                        "Other Operating Revenues": "0"
+                    },
+                    {
+                        "Gross Sales": "12,374.10"
+                    },
+                    {
+                        "Less:Duties": "0"
+                    },
+                    {
+                        "Total Revenue from Operations": "12,374.10"
+                    },
+                    {
+                        "Other Income": "1,092.32"
+                    },
+                    {
+                        "Total Revenue": "13,466.42"
+                    },
+                    {
+                        "Cost of Materials Consumed": "0"
+                    },
+                    {
+                        "Purchases of Stock in Trade": "0"
+                    },
+                    {
+                        "Changes in Inventories of Finished Goods, Work In Progress and Stock In Trade": "0"
+                    },
+                    {
+                        "Total Employee Benefit Expense": "6,613.91"
+                    },
+                    {
+                        "Managerial Remuneration": "0"
+                    },
+                    {
+                        "Other Employee Benefit Expense": "6,613.91"
+                    },
+                    {
+                        "Total Other Expenses": "18,938.68"
+                    },
+                    {
+                        "Payment to Auditors": "7.40"
+                    },
+                    {
+                        "Insurance Expenses": "34.69"
+                    },
+                    {
+                        "Power and Fuel": "0"
+                    },
+                    {
+                        "CSR Expenditure": "0"
+                    },
+                    {
+                        "Research Development Expenses ": "0"
+                    },
+                    {
+                        "Other Expenses": "18,896.59"
+                    },
+                    {
+                        "EBITDA": "-13,178.49"
+                    },
+                    {
+                        "EBITDA %": "-"
+                    },
+                    {
+                        "Finance Costs": "29.30"
+                    },
+                    {
+                        "Total Depreciation, Depletion and Amortization Expense": "205.65"
+                    },
+                    {
+                        "Total Expenses": "25,787.54"
+                    },
+                    {
+                        "Profit before Exceptional and Extraordinary Items and Tax": "-12,321.12"
+                    },
+                    {
+                        "Prior Period Items before Tax": "0"
+                    },
+                    {
+                        "Exceptional Items": "0"
+                    },
+                    {
+                        "Profit before Extraordinary Items and Tax": "-12,321.12"
+                    },
+                    {
+                        "Extraordinary Items": "0"
+                    },
+                    {
+                        "Profit before Tax": "-12,321.12"
+                    },
+                    {
+                        "Current Tax": "0"
+                    },
+                    {
+                        "Deferred Tax": "0"
+                    },
+                    {
+                        "Net Movement in Regulatory Deferral Account Balances related to Profit or Loss and the Related Deferred Tax Movement": "0"
+                    },
+                    {
+                        "Profit/(Loss) for the Period from Continuing Operations": "-12,321.12"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations": "0"
+                    },
+                    {
+                        "Tax Expense of Discontinuing Operations": "0"
+                    },
+                    {
+                        "Profit/(Loss) from Discontinuing Operations (After Tax)": "0"
+                    },
+                    {
+                        "Profit/(Loss)": "-12,321.12"
+                    }
+                ],
+                "ratios": [
+                    {
+                        "Revenue Growth (%)": "215.26"
+                    },
+                    {
+                        "EBITDA Margins (%)": "-"
+                    },
+                    {
+                        "EBT Margins (%)": "-"
+                    },
+                    {
+                        "PAT Margins (%)": "-"
+                    },
+                    {
+                        "Return on Equity (%)": "-"
+                    },
+                    {
+                        "Return on Fixed Assets (%)": "-"
+                    },
+                    {
+                        "Return on Capital Employed (%)": "-"
+                    },
+                    {
+                        "Current Ratio": "5.45"
+                    },
+                    {
+                        "Quick Ratio": "5.45"
+                    },
+                    {
+                        "Interest Coverage Ratio": "-"
+                    },
+                    {
+                        "Long-term Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Assets/Equity": "1.13"
+                    },
+                    {
+                        "Total Debt/Equity": "0.00"
+                    },
+                    {
+                        "Total Debt/Total Assets": "0.00"
+                    },
+                    {
+                        "Total Debt/EBITDA": "0.00"
+                    },
+                    {
+                        "Fixed Assets Turnover": "51.70"
+                    },
+                    {
+                        "Total Asset Turnover": "0.30"
+                    },
+                    {
+                        "Working Capital Turnover": "1"
+                    },
+                    {
+                        "Inventory Days": "-"
+                    },
+                    {
+                        "Receivables Days*": "14"
+                    },
+                    {
+                        "Payable Days*": "-"
+                    },
+                    {
+                        "Cash Conversion Cycle*": "-"
+                    },
+                    {
+                        "Raw Material Consumption (% of Sales)": "0.00"
+                    },
+                    {
+                        "Total Employee Cost (% of Sales)": "53.45"
+                    },
+                    {
+                        "Finance Cost (% of Sales)": "0.24"
+                    },
+                    {
+                        "Total Other Expenses (% of Sales)": "153.05"
+                    }
+                ]
+            }
+        }
+    ]
+}

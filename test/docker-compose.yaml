@@ -1,0 +1,50 @@
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.16.0  # Updated version
+    container_name: elasticsearch
+    environment:
+      - node.name=es-node-1
+      - cluster.name=es-cluster
+      - discovery.type=single-node  # Single-node mode for local testing
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m  # JVM memory options
+      - "xpack.security.enabled=false"  # Disable security (no authentication required)
+      - "xpack.ml.enabled=false"  # Disable machine learning (optional)
+      - "xpack.security.transport.ssl.enabled=false"  # Disable SSL/TLS encryption on the transport layer
+      - "xpack.security.http.ssl.enabled=false"  # Disable SSL/TLS encryption on HTTP layer
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1  # Prevent memory lock errors
+    ports:
+      - "9200:9200"  # Elasticsearch HTTP API (non-SSL)
+      - "9300:9300"  # Elasticsearch internal transport protocol (non-SSL)
+    volumes:
+      - esdata:/usr/share/elasticsearch/data  # Persist Elasticsearch data
+    networks:
+      - es-network
+    restart: always  # Ensure container restarts if it crashes
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.16.0  # Updated version
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200  # Point Kibana to the Elasticsearch container
+      - "xpack.security.enabled=false"  # Disable Kibana security
+      - "xpack.encryptedSavedObjects.enabled=false"  # Disable Encrypted Saved Objects feature"xpack.security.enabled=false"  # Disable security (no authentication required)
+      - "xpack.ml.enabled=false"  # Disable machine learning (optional)
+      - "xpack.security.transport.ssl.enabled=false"  # Disable SSL/TLS encryption on the transport layer
+      - "xpack.security.http.ssl.enabled=false"  # Disable SSL/TLS encryption on HTTP layer
+    ports:
+      - "5601:5601"  # Kibana web interface port
+    networks:
+      - es-network
+    depends_on:
+      - elasticsearch  # Ensure Kibana starts after Elasticsearch
+
+volumes:
+  esdata:
+    driver: local  # Store data in a local volume
+
+networks:
+  es-network:
+    driver: bridge  # Network for isolation
